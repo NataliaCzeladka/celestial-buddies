@@ -23,6 +23,7 @@
 }
 
 h1 {
+    font-family: 'Cormorant SC', serif;
     color: white;
     font-size: 8rem;
     text-align: center;
@@ -32,6 +33,7 @@ h1 {
 }
 
 h3 {
+    font-family: 'Libre Baskerville', serif;
     color: #e2987f;
     font-size: 3rem;
     text-align: center;
@@ -41,6 +43,7 @@ h3 {
 }
 
 p {
+    font-family: 'Libre Baskerville', serif;
     color: white;
     font-size: 2rem;
     text-align: center;
