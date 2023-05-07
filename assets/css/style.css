@@ -74,6 +74,11 @@ nav li {
     display: inline-block;
     width: 20%;
     margin-right: -2px;
+    background-color: #435170;
+}
+
+li a:hover {
+    background-color: #607e9f;
 }
 
 nav a {
@@ -85,5 +90,5 @@ nav a {
 }
 
 .active {
-    background-color: #435170;
+    background-color: #607e9f;
 }
