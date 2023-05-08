@@ -68,17 +68,20 @@ nav ul {
     background-color: #212a3f;
     font-family: 'Cormorant SC', serif;
     font-size: 200%;
+    display: flex;
 }
 
 nav li {
     display: inline-block;
-    width: 20%;
     margin-right: -2px;
     background-color: #435170;
+    flex: 1;
+    border: 3px solid #000;
+
 }
 
 li a:hover {
-    background-color: #607e9f;
+    color: #000;
 }
 
 nav a {
@@ -90,5 +93,5 @@ nav a {
 }
 
 .active {
-    background-color: #607e9f;
+    background-color: #314e90;
 }
