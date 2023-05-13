@@ -95,3 +95,31 @@ nav a {
 .active {
     background-color: #314e90;
 }
+
+#page-footer {
+    width: 100%;
+    height: 80px;
+    padding: 10px;
+    display: inline-block;
+    background-color: #435170;
+    border: 2px solid black;
+    color: #fff;
+    font-family: 'Cormorant SC', serif;
+    font-size: 200%;
+}
+
+#footer-right-corner {
+    float: right;
+    margin-right: 20px;
+}
+
+#footer-left-corner {
+    float: left;
+    margin-left: 20px;
+}
+
+footer a {
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
