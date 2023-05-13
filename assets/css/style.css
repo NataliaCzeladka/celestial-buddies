@@ -63,6 +63,8 @@ header p {
 }
 
 nav ul {
+    margin: 0;
+    padding: 0;
     list-style-type: none;
     text-align: center;
     background-color: #212a3f;
@@ -80,7 +82,7 @@ nav li {
 
 }
 
-a:hover {
+li a:hover {
     color: #000;
 }
 
