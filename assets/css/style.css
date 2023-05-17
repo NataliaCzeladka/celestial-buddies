@@ -154,6 +154,24 @@ nav a {
     background-size: cover;
 }
 
+.basic-info {
+    padding: 100px 50px;
+    text-align: center;
+}
+
+.basic-info h2 {
+    background-color: #000;
+    color: #cf8a72;
+    font-size: 220%;
+}
+
+.basic-info p {
+    margin-top: 10px;
+    background-color: #435170;
+    color: #fff;
+    font-size: 120%;
+}
+
 #page-footer {
     width: 100%;
     height: 70px;
