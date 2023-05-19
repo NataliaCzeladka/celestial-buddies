@@ -41,6 +41,33 @@
         </ul>
     </nav>
 
+    <section class="form-outer">
+        <div class="join-us-form">
+            <form action="https://formdump.codeinstitute.net/" method="POST">
+                <h2>Want to become a buddy?</h2>
+                <h5>Fill the questionnaire below</h5>
+                <label for="fname">First Name</label>
+                <input class="text-input" id="fname" type="text" name="first_name" required>
+                <label for="lname">Last Name</label>
+                <input class="text-input" id="lname" type="text" name="last_name" required>
+                <label for="email">Email Address</label>
+                <input class="text-input" id="email" type="email" name="email_address" required>
+                <br>
+                <p>Preferred activity:</p>
+                <input id="astronomy-club" type="radio" name="activity-preference" value="astronomy-club">
+                <label for="astronomy-club">Astronomy Club</label>
+                <br>
+                <input id="stargazing" type="radio" name="activity-preference" value="stargazing">
+                <label for="stargazing">Stargazing</label>
+                <br>
+                <input id="both" type="radio" name="activity-preference" value="both">
+                <label for="both">Both</label>
+                <br>
+                <input class="join-button" type="submit" value="Submit">
+            </form>
+        </div>
+    </section>
+
     <footer id="page-footer">
     
         <div id="footer-right-corner">Find us on:
