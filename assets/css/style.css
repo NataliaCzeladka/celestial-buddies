@@ -174,7 +174,7 @@ nav a {
 
 .form-outer {
     clear: left;
-    height: 800px;
+    height: 900px;
     background-image: url("../images/shutterstock_1923818147.jpg");
     background-size: cover;
     background-position: center;
@@ -224,7 +224,6 @@ nav a {
     margin: 20px;
     cursor: pointer;
     float: right;
-    ;
 }
 
 .contact-info {
