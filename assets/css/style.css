@@ -181,6 +181,7 @@ nav a {
 }
 
 .join-us-form {
+    height: 700px;
     margin-top: 100px;
     color: #fff;
     background-color: #43517080;
@@ -227,6 +228,7 @@ nav a {
 }
 
 .contact-info {
+    height: 700px;
     margin-top: 100px;
     color: #fff;
     background-color: #43517090;
