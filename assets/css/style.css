@@ -7,7 +7,7 @@
 body {
     font-family: 'Libre Baskerville', serif;
     background-color: #000;
-    color:#fff;
+    color: #fff;
 }
 
 #page-header {
@@ -82,15 +82,16 @@ nav li {
 
 }
 
-a:hover {
-    color: #000;
-}
-
 nav a {
     text-decoration: none;
     text-align: center;
     display: block;
     padding: 10px;
+    color: #fff;
+}
+
+a:hover {
+    color: #000;
 }
 
 .active {
@@ -204,7 +205,7 @@ nav a {
     font-size: 120%;
 }
 
-.join-us-form p{
+.join-us-form p {
     font-size: 200%;
 }
 
@@ -278,4 +279,5 @@ th {
 footer a {
     padding: 10px;
     text-decoration: none;
+    color: #fff;
 }
