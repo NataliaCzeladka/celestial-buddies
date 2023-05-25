@@ -169,6 +169,11 @@ a:hover {
     font-size: 120%;
 }
 
+.events {
+    font-size: 150%;
+    padding: 20px;
+}
+
 .form-outer {
     clear: left;
     height: 900px;
