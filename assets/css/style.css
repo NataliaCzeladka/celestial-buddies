@@ -115,7 +115,7 @@ a:hover {
 }
 
 .intro-question h1 {
-    font-size: 500%;
+    font-size: 600%;
     color: #cf8a72;
     font-family: 'Cormorant SC', serif;
 }
@@ -153,7 +153,7 @@ a:hover {
 }
 
 .basic-info {
-    padding: 50px;
+    padding: 50px 50px;
     text-align: center;
 }
 
@@ -162,6 +162,7 @@ a:hover {
 }
 
 .basic-info h2 {
+    margin: 0 auto;
     background-color: #000;
     color: #cf8a72;
     font-size: 220%;
@@ -169,7 +170,8 @@ a:hover {
 }
 
 .basic-info-column {
-    margin-top: 20px;
+    width: 95%;
+    margin: 20px auto;
     padding: 20px;
     background-color: #435170;
     border-radius: 20px;
@@ -182,7 +184,6 @@ a:hover {
 }
 
 .form-outer {
-    clear: left;
     height: 900px;
     background-image: url("../images/shutterstock_1923818147.jpg");
     background-size: cover;
