@@ -178,9 +178,42 @@ a:hover {
     font-size: 120%;
 }
 
-.events {
-    font-size: 150%;
-    padding: 20px;
+.events-heading {
+    margin-top: 30px;
+    font-size: 500%;
+    color: #cf8a72;
+    font-family: 'Cormorant SC', serif;
+    text-align: center;
+}
+
+.events-container {
+    margin: 20px 30px;
+}
+
+.events-card {
+    padding: 20px 30px;
+}
+
+.events-subheading {
+    margin-top: 30px;
+    color: #12529b;
+    font-family: 'Cormorant SC', serif;
+    font-size: 2em;
+    font-weight: 700;
+    text-align: left;
+    border-bottom: 2px solid #435170;
+}
+
+.events-content {
+    color: #fff;
+    font-size: 110%;
+    text-align: justify;
+}
+
+.events-img {
+    width: 100%;
+    height: 350px;
+    background- align-content: center;
 }
 
 .form-outer {
