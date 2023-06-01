@@ -11,7 +11,7 @@ body {
 }
 
 #page-header {
-    height: 400px;
+    height: 425px;
     width: 100%;
     position: relative;
     background-color: #0f1425;
@@ -212,7 +212,6 @@ a:hover {
 
 .events-img {
     width: 100%;
-    height: 350px;
     align-content: center;
 }
 
