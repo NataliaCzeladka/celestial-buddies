@@ -215,6 +215,12 @@ a:hover {
     align-content: center;
 }
 
+.resources-intro {
+    padding: 3vw 12vw 1vw 12vw;
+    font-size: 140%;
+    text-align: center;
+}
+
 .form-outer {
     height: 900px;
     background-image: url("../images/shutterstock_1923818147.jpg");
