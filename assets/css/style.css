@@ -186,14 +186,14 @@ a:hover {
 
 .events-heading {
     margin-top: 30px;
-    font-size: 500%;
+    font-size: 400%;
     color: #cf8a72;
     font-family: 'Cormorant SC', serif;
     text-align: center;
 }
 
 .events-container {
-    margin: 20px 30px;
+    margin: 10px 30px;
 }
 
 .events-card {
@@ -223,7 +223,7 @@ a:hover {
 
 /*resources.html styling*/
 
-.resources-intro {
+.plain-intro {
     padding: 3vw 12vw 1vw 12vw;
     font-size: 140%;
     text-align: center;
