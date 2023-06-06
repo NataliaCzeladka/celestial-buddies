@@ -31,12 +31,12 @@ body {
 
 header h1 {
     font-family: 'Cormorant SC', serif;
-    font-size: 9em;
+    font-size: 10em;
     text-align: center;
     text-shadow: #000 4px 4px 4px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
     -webkit-font-smoothing: antialiased;
     position: absolute;
-    top: 20%;
+    top: 15%;
     width: 100%;
 }
 
@@ -74,6 +74,7 @@ nav ul {
     font-family: 'Cormorant SC', serif;
     font-size: 200%;
     display: flex;
+    flex-wrap: wrap;
 }
 
 nav li {
