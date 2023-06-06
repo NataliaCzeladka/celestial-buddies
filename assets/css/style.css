@@ -15,29 +15,22 @@ body {
 #page-header {
     height: 425px;
     width: 100%;
-    position: relative;
-    background-color: #0f1425;
-}
-
-#hero-image {
     background-image: url(../images/Shutterstock_1221148045.jpg);
-    height: 100%;
-    width: 100%;
     position: absolute;
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 header h1 {
     font-family: 'Cormorant SC', serif;
     font-size: 10em;
-    text-align: center;
+    text-alig: center;
     text-shadow: #000 4px 4px 4px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
     -webkit-font-smoothing: antialiased;
-    position: absolute;
-    top: 15%;
-    width: 100%;
 }
 
 header h3 {
@@ -48,9 +41,6 @@ header h3 {
     text-align: center;
     text-shadow: #000 4px 4px 4px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
     -webkit-font-smoothing: antialiased;
-    position: absolute;
-    top: 65%;
-    width: 100%;
 }
 
 header p {
@@ -59,9 +49,6 @@ header p {
     text-align: center;
     text-shadow: #000 4px 4px 4px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
     -webkit-font-smoothing: antialiased;
-    position: absolute;
-    top: 75%;
-    width: 100%
 }
 
 /*Navigation Bar*/
@@ -161,7 +148,7 @@ a:hover {
     text-align: center;
 }
 
-.basic-info-outer{
+.basic-info-outer {
     padding: 10px;
 }
 
@@ -369,11 +356,11 @@ footer a {
 @media screen and (max-width: 576px) {
 
     #page-header {
-        height: 200px;
+        height: 250px;
     }
 
     header h1 {
-        font-size: 4.5em;
+        font-size: 20vw;
         line-height: 90%;
     }
 
@@ -388,7 +375,7 @@ footer a {
     nav ul {
         font-size: 120%;
     }
-    
+
     nav li {
         padding: 0 25px;
     }
@@ -421,16 +408,15 @@ footer a {
 @media screen and (min-width: 768px) and (max-width: 1200px) {
 
     header h1 {
-        font-size: 10em;
-        line-height: 90%;
+        font-size: 11vw;
     }
 
     header h3 {
-        display: none;
+        font-size: 2.6vw;
     }
 
     header p {
-        display: none;
+        font-size: 1.8vw;
     }
 }
 
@@ -441,6 +427,10 @@ footer a {
     }
 
     header h3 {
-        font-size: 1.6em;
+        font-size: 2vw;
+    }
+
+    header p {
+        font-size: 1.8vw;
     }
 }
