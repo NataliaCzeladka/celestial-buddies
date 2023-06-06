@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="Celestial Buddies is an astronomy club based in Skegness, Lincolnshire. It's devoted to studying stars, planets, constellations, galaxies, and anything space related. It organizes local stargazing events.">
+        content="Cellestial Buddies is an astronomy club based in Skegness, Lincolnshire. It's devoted to studying stars, planets, constellations, galaxies, and anything space related. It organizes local stargazing events.">
     <meta name="keywords" content="astronomy, astronomy club, group of interest, stargazing, skegness, lincolnshire">
     <meta name="author"
         content="Website designed and maintained by Natalia Czeladka, Junior Software Developer at Celestial Buddies.">
@@ -23,8 +23,7 @@
 </head>
 
 <body>
-
-    <!--Page Header-->
+    
     <header id="page-header">
         <div>
             <h1>Celestial Buddies</h1>
@@ -33,23 +32,22 @@
         </div>
     </header>
 
-    <!--Navigation Bar-->
-    <nav>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="events.html">Events</a></li>
-            <li><a href="resources.html">Resources</a></li>
-            <li class="active"><a href="form.html">Join&nbspUs</a></li>
-        </ul>
+    <nav id="navbar">
+        <div>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="events.html">Events</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li class="active"><a href="form.html">Join Us</a></li>
+            </ul>
+        </div>
     </nav>
 
-    <!--Join Us Form-->
     <section class="form-outer">
-
         <div class="join-us-form">
             <form action="https://formdump.codeinstitute.net/" method="POST">
                 <h2>Want to become a buddy?</h2>
-                <h5>Fill the questionnaire below</h5>
+                <h5>Fill the questionnaire below.</h5>
                 <br>
                 <label for="fname">First Name</label>
                 <input class="text-input" id="fname" type="text" name="first_name" required>
@@ -72,42 +70,46 @@
             </form>
         </div>
 
-        <!--Contact Info-->
         <div class="contact-info">
             <h2>Alternatively:</h2>
             <ul>
-                <li><i class="fa-solid fa-phone"></i> Contact us by phone:</li>
-                <h4>+44 7539651825 (Luna), or +44 7984137449 (Sirius)</h4>
-                <h5>Call us Monday to Friday after 6pm. Or, text us anytime and we will get back to you as soon as we
-                    can.</h5>
-                <li><i class="fa-sharp fa-regular fa-at"></i> Contact us by email:</li>
-                <h4>celestial.buddies@gmail.com</h4>
-                <h5>We will email you back with confirmation of your registration.</h5>
-                <li><i class="fa-solid fa-pencil"></i> Fill in the paper form at one of our locations:</li>
-                <table>
-                    <tr>
-                        <th>Skegness Library</th>
-                        <th>Gibralat Point Cafe</th>
-                    </tr>
-                    <tr>
-                        <td>23 Roman Bank</td>
-                        <td>Gibraltar Road</td>
-                    </tr>
-                    <tr>
-                        <td>Skegness</td>
-                        <td>Skegness</td>
-                    </tr>
-                    <tr>
-                        <td>PE25 2SA</td>
-                        <td>PE24 4SU</td>
-                    </tr>
-                </table>
+                <div>
+                    <li><i class="fa-solid fa-phone"></i> Contact us by phone:</li>
+                    <h4>+44 7539651825 (Luna), or +44 7984137449 (Sirius)</h4>
+                    <h5>Call us Monday to Friday after 6pm. Or, text us anytime and we will get back to you as soon as
+                        we can.</h5>
+                </div>
+                <div>
+                    <li><i class="fa-sharp fa-regular fa-at"></i> Contact us by email:</li>
+                    <h4>celestial.buddies@gmail.com</h4>
+                    <h5>We will email you back with confirmation of your registration.</h5>
+                </div>
+                <div>
+                    <li><i class="fa-solid fa-pencil"></i> Fill in the paper form at one of our locations:</li>
+                    <table>
+                        <tr>
+                            <th>Skegness Library</th>
+                            <th>Gibralat Point Cafe</th>
+                        </tr>
+                        <tr>
+                            <td>23 Roman Bank</td>
+                            <td>Gibraltar Road</td>
+                        </tr>
+                        <tr>
+                            <td>Skegness</td>
+                            <td>Skegness</td>
+                        </tr>
+                        <tr>
+                            <td>PE25 2SA</td>
+                            <td>PE24 4SU</td>
+                        </tr>
+                    </table>
+                </div>
             </ul>
         </div>
 
     </section>
 
-    <!--Page Footer-->
     <footer class="container-fluid">
         <div class="row">
             <div class="col-12 col-md-6 text-center text-md-start">
