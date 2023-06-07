@@ -15,7 +15,6 @@ body {
 #page-header {
     height: 425px;
     width: 100%;
-    background-color: #0f1425;
     background-image: url(../images/Shutterstock_1221148045.jpg);
     background-position: top;
     background-repeat: no-repeat;
@@ -27,7 +26,6 @@ body {
 
 header h1 {
     font-family: 'Cormorant SC', serif;
-    color: white;
     font-size: 10em;
     text-align: center;
     text-shadow: #000 4px 4px 4px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
@@ -46,7 +44,6 @@ header h3 {
 
 header p {
     font-family: 'Libre Baskerville', serif;
-    color: white;
     font-size: 1.4em;
     text-align: center;
     text-shadow: #000 4px 4px 4px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
@@ -81,7 +78,6 @@ a:hover {
 
 nav a {
     text-decoration: none;
-    color: white;
     text-align: center;
     display: block;
     padding: 10px;
@@ -259,16 +255,8 @@ nav a {
     background-position: center;
 }
 
-.contact-info {
-    margin: 5vw 2vw;
-    color: #fff;
-    background-color: #43517090;
-    padding: 30px;
-}
-
 .join-us-form {
     margin: 5vw 2vw;
-    color: #fff;
     background-color: #43517090;
     padding: 30px;
 }
@@ -316,6 +304,12 @@ nav a {
     cursor: pointer;
 }
 
+.contact-info {
+    margin: 5vw 2vw;
+    background-color: #43517090;
+    padding: 30px;
+}
+
 .contact-info div {
     padding: 2%;
 }
@@ -339,11 +333,12 @@ th {
     margin-bottom: 20px;
 }
 
+/* Page Footer */
+
 footer {
     width: 100%;
     padding: 10px;
     background-color: #435170;
-    color: #fff;
     font-family: 'Cormorant SC', serif;
     font-size: 150%;
 }
@@ -354,39 +349,182 @@ footer a {
     color: white;
 }
 
-/*Media Queries*/
+/* Media Queries */
 
 @media screen and (max-width: 576px) {
 
-    #page-header {
-        height: 250px;
-    }
+        #page-header {
+            height: 300px;
+        }
 
-    header h1 {
-        font-size: 20vw;
-        line-height: 90%;
-    }
+        header h1 {
+            font-size: 20vw;
+            line-height: 90%;
+        }
 
-    header h3 {
-        display: none;
-    }
+        header h3 {
+            display: none;
+        }
 
-    header p {
-        display: none;
-    }
+        header p {
+            display: none;
+        }
 
-    nav ul {
-        font-size: 120%;
-        flex-direction: column;
-    }
+        nav ul {
+            font-size: 120%;
+            flex-direction: column;
+        }
 
-    nav li {
-        padding: 0 25px;
-    }
+        nav li {
+            padding: 0 25px;
+        }
 
-    nav a {
-        padding: 5px;
-    }
+        nav a {
+            padding: 5px;
+        }
+
+        .intro-question {
+            margin: 20px 5px;
+        }
+
+        .intro-question h3 {
+            font-size: 85%;
+        }
+
+        .intro-question h2 {
+            font-size: 250%;
+            padding: 10px 0;
+        }
+
+        .basic-info {
+            padding: 10px;
+        }
+
+        .basic-info-outer {
+            padding: 10px 0;
+        }
+
+        .basic-info h2 {
+            font-size: 150%;
+        }
+
+        .basic-info-column {
+            width: 90%;
+            margin-top: 10px;
+            padding: 10px;
+            font-size: 80%;
+        }
+
+        .plain-intro {
+            padding: 30px 20px 10px 20px;
+            font-size: 85%;
+            text-align: center;
+        }
+
+        .events-heading {
+            margin-top: 10px;
+            font-size: 250%;
+            line-height: 90%;
+        }
+
+        .events-container {
+            margin: 20px 10px;
+        }
+
+        .events-card {
+            padding: 10px 0;
+        }
+
+        .events-subheading {
+            margin-top: 10px;
+            font-size: 1.2em;
+            font-weight: 700;
+            text-align: center;
+            border-bottom: 1px solid;
+        }
+
+        .events-content {
+            font-size: 80%;
+            text-align: center;
+        }
+
+        .resources-list {
+            padding: 1vw 5vw;
+        }
+
+        .resources-list h2 {
+            font-size: 200%;
+        }
+
+        .resources-column {
+            width: 90%;
+            margin: 20px auto;
+            padding: 20px 15px;
+            font-size: 80%;
+        }
+
+        .join-us-form h2 {
+            font-size: 180%;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .join-us-form h5 {
+            margin-bottom: 10px;
+            font-size: 100%;
+            text-align: center;
+        }
+
+        .join-us-form p {
+            margin: 10px 0;
+            font-size: 120%;
+        }
+
+        .join-button {
+            padding: 10px 20px;
+            font-size: 120%;
+            margin: 20px;
+        }
+
+        .contact-info h3 {
+            margin: 20px 0;
+            font-size: 120%;
+            font-weight: 400;
+            text-align: center;
+        }
+
+        .contact-info h2 {
+            font-size: 160%;
+            text-align: center;
+        }
+
+        .contact-info h4 {
+            font-size: 100%;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .contact-info h5 {
+            font-size: 90%;
+            text-align: center;
+        }
+
+        th {
+            font-size: 80%;
+            margin-bottom: 20px;
+        }
+
+        td {
+            font-size: 80%;
+        }
+
+        footer {
+            font-size: 120%;
+        }
+
+        footer a {
+            padding: 5px;
+        }
 }
 
 @media screen and (min-width: 576px) and (max-width: 768px) {
