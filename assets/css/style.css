@@ -12,7 +12,7 @@ body {
 
 /* Page Header */
 
-#page-header {
+header {
     height: 425px;
     width: 100%;
     background-image: url(../images/Shutterstock_1221148045.jpg);
@@ -348,7 +348,7 @@ footer a {
 
 @media screen and (max-width: 576px) {
 
-        #page-header {
+        header {
             height: 300px;
         }
 
@@ -458,7 +458,7 @@ footer a {
             font-size: 80%;
         }
 
-        .join-us-form{
+        .join-us-form {
             width: 90%;
         }
 
@@ -534,7 +534,7 @@ footer a {
 
 @media screen and (min-width: 576px) and (max-width: 768px) {
 
-        #page-header {
+        header {
             height: 350px;
         }
     
