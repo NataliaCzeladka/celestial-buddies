@@ -23,7 +23,6 @@
 </head>
 
 <body>
-    
     <header id="page-header">
         <div>
             <h1>Celestial Buddies</h1>
@@ -43,71 +42,72 @@
         </div>
     </nav>
 
-    <section class="form-outer">
-        <div class="join-us-form">
-            <form action="https://formdump.codeinstitute.net/" method="POST">
-                <h2>Want to become a buddy?</h2>
-                <h5>Fill the questionnaire below.</h5>
-                <br>
-                <label for="fname">First Name</label>
-                <input class="text-input" id="fname" type="text" name="first_name" required>
-                <label for="lname">Last Name</label>
-                <input class="text-input" id="lname" type="text" name="last_name" required>
-                <label for="email">Email Address</label>
-                <input class="text-input" id="email" type="email" name="email_address" required>
-                <br>
-                <p>Preferred activity:</p>
-                <input id="astronomy-club" type="radio" name="activity-preference" value="astronomy-club">
-                <label for="astronomy-club">Astronomy Club</label>
-                <br>
-                <input id="stargazing" type="radio" name="activity-preference" value="stargazing">
-                <label for="stargazing">Stargazing</label>
-                <br>
-                <input id="both" type="radio" name="activity-preference" value="both">
-                <label for="both">Both</label>
-                <br>
-                <input class="join-button" type="submit" value="Submit">
-            </form>
-        </div>
+    <section class="container-fluid form-outer">
+        <div class="row justify-content-center">
+            <div class="col-12 col-lg-4 join-us-form">
+                <form action="thankyou.html">
+                    <h2>Want to become a buddy?</h2>
+                    <h5>Fill the questionnaire below.</h5>
+                    <br>
+                    <label for="fname">First Name</label>
+                    <input class="text-input" id="fname" type="text" name="first_name" required>
+                    <label for="lname">Last Name</label>
+                    <input class="text-input" id="lname" type="text" name="last_name" required>
+                    <label for="email">Email Address</label>
+                    <input class="text-input" id="email" type="email" name="email_address" required>
+                    <br>
+                    <p>Preferred activity:</p>
+                    <input id="astronomy-club" type="radio" name="activity-preference" value="astronomy-club">
+                    <label for="astronomy-club">Astronomy Club</label>
+                    <br>
+                    <input id="stargazing" type="radio" name="activity-preference" value="stargazing">
+                    <label for="stargazing">Stargazing</label>
+                    <br>
+                    <input id="both" type="radio" name="activity-preference" value="both">
+                    <label for="both">Both</label>
+                    <br>
+                    <input class="join-button" type="submit" value="Submit">
+                </form>
+            </div>
 
-        <div class="contact-info">
-            <h2>Alternatively:</h2>
-            <ul>
-                <div>
-                    <li><i class="fa-solid fa-phone"></i> Contact us by phone:</li>
-                    <h4>+44 7539651825 (Luna), or +44 7984137449 (Sirius)</h4>
-                    <h5>Call us Monday to Friday after 6pm. Or, text us anytime and we will get back to you as soon as
-                        we can.</h5>
-                </div>
-                <div>
-                    <li><i class="fa-sharp fa-regular fa-at"></i> Contact us by email:</li>
-                    <h4>celestial.buddies@gmail.com</h4>
-                    <h5>We will email you back with confirmation of your registration.</h5>
-                </div>
-                <div>
-                    <li><i class="fa-solid fa-pencil"></i> Fill in the paper form at one of our locations:</li>
-                    <table>
-                        <tr>
-                            <th>Skegness Library</th>
-                            <th>Gibralat Point Cafe</th>
-                        </tr>
-                        <tr>
-                            <td>23 Roman Bank</td>
-                            <td>Gibraltar Road</td>
-                        </tr>
-                        <tr>
-                            <td>Skegness</td>
-                            <td>Skegness</td>
-                        </tr>
-                        <tr>
-                            <td>PE25 2SA</td>
-                            <td>PE24 4SU</td>
-                        </tr>
-                    </table>
-                </div>
-            </ul>
+            <div class="col-12 col-lg-6 contact-info">
+                <h2>Alternatively:</h2>
+                <ul>
+                    <div>
+                        <li><i class="fa-solid fa-phone"></i> Contact us by phone:</li>
+                        <h4>+44 7539651825 (Luna), or +44 7984137449 (Sirius)</h4>
+                        <h5>Call us Monday to Friday after 6pm. Or, text us anytime and we will get back to you as soon
+                            as we can.</h5>
+                    </div>
+                    <div>
+                        <li><i class="fa-sharp fa-regular fa-at"></i> Contact us by email:</li>
+                        <h4>celestial.buddies@gmail.com</h4>
+                        <h5>We will email you back with confirmation of your registration.</h5>
+                    </div>
+                    <div>
+                        <li><i class="fa-solid fa-pencil"></i> Fill in the paper form at one of our locations:</li>
+                        <table>
+                            <tr>
+                                <th>Skegness Library</th>
+                                <th>Gibraltar Point Cafe</th>
+                            </tr>
+                            <tr>
+                                <td>23 Roman Bank</td>
+                                <td>Gibraltar Road</td>
+                            </tr>
+                            <tr>
+                                <td>Skegness</td>
+                                <td>Skegness</td>
+                            </tr>
+                            <tr>
+                                <td>PE25 2SA</td>
+                                <td>PE24 4SU</td>
+                            </tr>
+                        </table>
+                    </div>
+                </ul>
+            </div>
         </div>
-
     </section>
 
     <footer class="container-fluid">
