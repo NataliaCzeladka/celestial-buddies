@@ -264,6 +264,9 @@ nav a {
 
 .join-us-form h2 {
     font-size: 230%;
+    color: #cf8a72;
+    text-shadow: #000 4px 4px 4px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
+    -webkit-font-smoothing: antialiased;
 }
 
 .join-us-form h5 {
@@ -279,7 +282,7 @@ nav a {
 
 .join-button {
     background-color: #cf8a72;
-    border: none;
+    border: 1px solid #000;
     border-radius: 4px;
     color: #fff;
     padding: 16px 32px;
@@ -310,7 +313,8 @@ nav a {
     font-size: 150%;
     list-style-type: none;
     color: #cf8a72;
-    text-shadow: #000 1px 1px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
+    text-shadow: #000 4px 4px 4px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
+    -webkit-font-smoothing: antialiased;
     font-weight: 700;
 }
 
@@ -454,10 +458,14 @@ footer a {
             font-size: 80%;
         }
 
+        .join-us-form{
+            width: 90%;
+        }
+
         .join-us-form h2 {
-            font-size: 180%;
+            font-size: 150%;
             text-align: center;
-            margin-bottom: 20px;
+            margin-bottom: 15px;
         }
 
         .join-us-form h5 {
@@ -474,7 +482,13 @@ footer a {
         .join-button {
             padding: 10px 20px;
             font-size: 120%;
-            margin: 20px;
+            margin: 15px;
+        }
+
+        .contact-info {
+            width: 90%;
+            margin: 0 5vw 5vw 5vw;
+            padding: 20px 5px;
         }
 
         .contact-info h3 {
@@ -520,38 +534,155 @@ footer a {
 
 @media screen and (min-width: 576px) and (max-width: 768px) {
 
-    #page-header {
-        height: 350px;
-    }
-
-    header h1 {
-        font-size: 18vw;
-        line-height: 90%;
-    }
-
-    header h3 {
-        display: none;
-    }
-
-    header p {
-        display: none;
-    }
-
-    nav ul {
-        font-size: 140%;
-    }
-
-    .events-img {
-        width: 80%
-    }
-
-    .events-subheading {
-        text-align: center;
-    }
-
-    .events-content {
-        font-size: 100%;
-    }
+        #page-header {
+            height: 350px;
+        }
+    
+        header h1 {
+            font-size: 18vw;
+            line-height: 90%;
+        }
+    
+        header h3 {
+            display: none;
+        }
+    
+        header p {
+            display: none;
+        }
+    
+        nav ul {
+            font-size: 140%;
+        }
+    
+        .intro-question {
+            margin: 20px 10px;
+        }
+    
+        .intro-question h3 {
+            font-size: 120%;
+        }
+    
+        .intro-question h2 {
+            font-size: 350%;
+            padding: 10px 0;
+        }
+    
+        .basic-info {
+            padding: 10px;
+        }
+    
+        .basic-info-outer {
+            padding: 10px 0;
+        }
+    
+        .basic-info h2 {
+            font-size: 180%;
+        }
+    
+        .basic-info-column {
+            width: 80%;
+            margin-top: 10px;
+            padding: 20px;
+            font-size: 110%;
+        }
+    
+        .plain-intro {
+            padding: 50px 30px 0 30px;
+            font-size: 110%;
+        }
+    
+        .events-img {
+            width: 80%
+        }
+    
+        .events-subheading {
+            text-align: center;
+        }
+    
+        .events-content {
+            font-size: 100%;
+        }
+    
+        .resources-list {
+            padding: 1vw 5vw;
+        }
+    
+        .resources-list h2 {
+            font-size: 200%;
+        }
+    
+        .resources-column {
+            width: 90%;
+            margin: 20px auto;
+            padding: 20px 15px;
+            font-size: 100%;
+        }
+    
+        .join-us-form {
+            width: 80%;
+        }
+    
+        .join-us-form h2 {
+            font-size: 180%;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+    
+        .join-us-form h5 {
+            margin-bottom: 10px;
+            font-size: 120%;
+            text-align: center;
+        }
+    
+        .join-us-form p {
+            margin: 10px 0;
+            font-size: 120%;
+        }
+    
+        .join-button {
+            padding: 10px 20px;
+            font-size: 120%;
+            margin: 15px;
+        }
+    
+        .contact-info {
+            width: 80%;
+            margin: 0 5vw 5vw 5vw;
+            padding: 25px 5px;
+        }
+    
+        .contact-info h3 {
+            margin: 20px 0;
+            font-size: 150%;
+            font-weight: 400;
+            text-align: center;
+        }
+    
+        .contact-info h2 {
+            font-size: 180%;
+            text-align: center;
+        }
+    
+        .contact-info h4 {
+            font-size: 130%;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+    
+        .contact-info h5 {
+            font-size: 110%;
+            text-align: center;
+        }
+    
+        th {
+            font-size: 100%;
+            margin-bottom: 20px;
+        }
+    
+        td {
+            font-size: 90%;
+        }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1200px) {
