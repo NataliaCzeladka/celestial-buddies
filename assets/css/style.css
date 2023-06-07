@@ -64,6 +64,7 @@ nav ul {
 }
 
 nav li {
+    color: #fff;
     background-color: #435170;
     flex: 1;
     border: 2px solid black;
@@ -223,6 +224,7 @@ nav a {
 
 .resources-list h2 {
     color: #cf8a72;
+    font-family: 'Cormorant SC', serif;
     margin: 0 auto;
     font-size: 200%;
     font-weight: 700;
@@ -314,7 +316,7 @@ nav a {
     padding: 2%;
 }
 
-.contact-info li {
+.contact-info h3 {
     margin: 20px 0;
     font-size: 150%;
     list-style-type: none;
