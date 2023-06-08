@@ -713,4 +713,17 @@ footer a {
     header p {
         font-size: 1.8vw;
     }
+
+    .intro-question{
+    margin: 50px 0;
+    }
+
+    .intro-question h3{
+    font-size: 130%;
+    }
+
+    .intro-question h2{
+    font-size: 350%;
+    padding: 10px 0;
+    }
 }
