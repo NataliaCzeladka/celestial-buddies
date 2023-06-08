@@ -24,6 +24,7 @@ header {
     justify-content: center;
 }
 
+/*Credit: code for outline effect taken from stackoverflow.com and edited slightly to fit project needs*/
 header h1 {
     font-family: 'Cormorant SC', serif;
     font-size: 10em;
@@ -32,6 +33,7 @@ header h1 {
     -webkit-font-smoothing: antialiased;
 }
 
+/*Credit: code for outline effect taken from stackoverflow.com and edited slightly to fit project needs*/
 header h3 {
     font-family: 'Libre Baskerville', serif;
     color: #cf8a72;
@@ -42,6 +44,7 @@ header h3 {
     -webkit-font-smoothing: antialiased;
 }
 
+/*Credit: code for outline effect taken from stackoverflow.com and edited slightly to fit project needs*/
 header p {
     font-family: 'Libre Baskerville', serif;
     font-size: 1.4em;
@@ -262,6 +265,7 @@ nav a {
     border-radius: 2px;
 }
 
+/*Credit: code for outline effect taken from stackoverflow.com and edited slightly to fit project needs*/
 .join-us-form h2 {
     font-size: 230%;
     color: #cf8a72;
@@ -308,6 +312,7 @@ nav a {
     padding: 2%;
 }
 
+/*Credit: code for outline effect taken from stackoverflow.com and edited slightly to fit project needs*/
 .contact-info h3 {
     margin: 20px 0;
     font-size: 150%;
@@ -698,12 +703,28 @@ footer a {
     header p {
         font-size: 1.8vw;
     }
+
+    .contact-info {
+        width: 70%;
+        margin: 0 10vw 5vw 10vw;
+        padding: 25px 15px;
+    }
+    
+    .join-us-form {
+        width: 70%;
+        margin: 5vw 10vw 5vw 10vw;
+        padding: 25px 15px;
+    }
 }
 
 @media screen and (min-width: 1200px) and (max-width: 1400px) {
     
+    #page-header {
+        height: 350px;
+    }
+
     header h1 {
-        font-size: 11vw;
+        font-size: 10vw;
     }
 
     header h3 {
@@ -714,12 +735,8 @@ footer a {
         font-size: 1.8vw;
     }
 
-    .intro-question{
-    margin: 50px 0;
-    }
-
     .intro-question h3{
-    font-size: 130%;
+    font-size: 125%;
     }
 
     .intro-question h2{
