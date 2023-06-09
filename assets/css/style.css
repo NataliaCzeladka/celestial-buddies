@@ -353,345 +353,346 @@ footer a {
 
 @media screen and (max-width: 576px) {
 
-        header {
-            height: 320px;
-        }
+    header {
+        height: 320px;
+    }
 
-        header h1 {
-            font-size: 20vw;
-            line-height: 90%;
-        }
+    header h1 {
+        font-size: 20vw;
+        line-height: 90%;
+    }
 
-        header h3 {
-            display: none;
-        }
+    header h3 {
+        display: none;
+    }
 
-        header p {
-            display: none;
-        }
+    header p {
+        display: none;
+    }
 
-        nav ul {
-            font-size: 120%;
-            flex-direction: column;
-        }
+    nav ul {
+        font-size: 120%;
+        flex-direction: column;
+    }
 
-        nav li {
-            padding: 0 25px;
-        }
+    nav li {
+        padding: 0 25px;
+    }
 
-        nav a {
-            padding: 5px;
-        }
+    nav a {
+        padding: 5px;
+    }
 
-        .intro-question {
-            margin: 20px 5px;
-        }
+    .intro-question {
+        margin: 20px 5px;
+    }
 
-        .intro-question h3 {
-            font-size: 85%;
-        }
+    .intro-question h3 {
+        font-size: 85%;
+    }
 
-        .intro-question h2 {
-            font-size: 250%;
-            padding: 10px 0;
-        }
+    .intro-question h2 {
+        font-size: 250%;
+        padding: 10px 0;
+    }
 
-        .basic-info {
-            padding: 10px;
-        }
+    .basic-info {
+        padding: 10px;
+    }
 
-        .basic-info-outer {
-            padding: 10px 0;
-        }
+    .basic-info-outer {
+        padding: 10px 0;
+    }
 
-        .basic-info h2 {
-            font-size: 150%;
-        }
+    .basic-info h2 {
+        font-size: 150%;
+    }
 
-        .basic-info-column {
-            width: 90%;
-            margin-top: 10px;
-            padding: 10px;
-            font-size: 80%;
-        }
+    .basic-info-column {
+        width: 90%;
+        margin-top: 10px;
+        padding: 10px;
+        font-size: 80%;
+    }
 
-        .plain-intro {
-            padding: 30px 20px 10px 20px;
-            font-size: 85%;
-            text-align: center;
-        }
+    .plain-intro {
+        padding: 30px 20px 10px 20px;
+        font-size: 85%;
+        text-align: center;
+    }
 
-        .events-heading {
-            margin-top: 10px;
-            font-size: 250%;
-            line-height: 90%;
-        }
+    .events-heading {
+        margin-top: 10px;
+        font-size: 250%;
+        line-height: 90%;
+    }
 
-        .events-container {
-            margin: 20px 10px;
-        }
+    .events-container {
+        margin: 20px 10px;
+    }
 
-        .events-card {
-            padding: 10px 0;
-        }
+    .events-card {
+        padding: 10px 0;
+    }
 
-        .events-subheading {
-            margin-top: 10px;
-            font-size: 1.2em;
-            font-weight: 700;
-            text-align: center;
-            border-bottom: 1px solid;
-        }
+    .events-subheading {
+        margin-top: 10px;
+        font-size: 1.2em;
+        font-weight: 700;
+        text-align: center;
+        border-bottom: 1px solid;
+    }
 
-        .events-content {
-            font-size: 80%;
-            text-align: center;
-        }
+    .events-content {
+        font-size: 80%;
+        text-align: center;
+    }
 
-        .resources-list {
-            padding: 1vw 5vw;
-        }
+    .resources-list {
+        padding: 1vw 5vw;
+    }
 
-        .resources-list h2 {
-            font-size: 200%;
-        }
+    .resources-list h2 {
+        font-size: 200%;
+    }
 
-        .resources-column {
-            width: 90%;
-            margin: 20px auto;
-            padding: 20px 15px;
-            font-size: 80%;
-        }
+    .resources-column {
+        width: 90%;
+        margin: 20px auto;
+        padding: 20px 15px;
+        font-size: 80%;
+    }
 
-        .join-us-form {
-            width: 90%;
-        }
+    .join-us-form {
+        width: 90%;
+    }
 
-        .join-us-form h2 {
-            font-size: 150%;
-            text-align: center;
-            margin-bottom: 15px;
-        }
+    .join-us-form h2 {
+        font-size: 150%;
+        text-align: center;
+        margin-bottom: 15px;
+    }
 
-        .join-us-form h5 {
-            margin-bottom: 10px;
-            font-size: 100%;
-            text-align: center;
-        }
+    .join-us-form h5 {
+        margin-bottom: 10px;
+        font-size: 100%;
+        text-align: center;
+    }
 
-        .join-us-form p {
-            margin: 10px 0;
-            font-size: 120%;
-        }
+    .join-us-form p {
+        margin: 10px 0;
+        font-size: 120%;
+    }
 
-        .join-button {
-            padding: 10px 20px;
-            font-size: 120%;
-            margin: 15px;
-        }
+    .join-button {
+        padding: 10px 20px;
+        font-size: 120%;
+        margin: 15px;
+    }
 
-        .contact-info {
-            width: 90%;
-            margin: 0 5vw 5vw 5vw;
-            padding: 20px 5px;
-        }
+    .contact-info {
+        width: 90%;
+        margin: 0 5vw 5vw 5vw;
+        padding: 20px 5px;
+    }
 
-        .contact-info h3 {
-            margin: 20px 0;
-            font-size: 120%;
-            font-weight: 400;
-            text-align: center;
-        }
+    .contact-info h3 {
+        margin: 20px 0;
+        font-size: 120%;
+        font-weight: 400;
+        text-align: center;
+    }
 
-        .contact-info h2 {
-            font-size: 160%;
-            text-align: center;
-        }
+    .contact-info h2 {
+        font-size: 160%;
+        text-align: center;
+    }
 
-        .contact-info h4 {
-            font-size: 100%;
-            margin-bottom: 20px;
-            text-align: center;
-        }
+    .contact-info h4 {
+        font-size: 100%;
+        margin-bottom: 20px;
+        text-align: center;
+    }
 
-        .contact-info h5 {
-            font-size: 90%;
-            text-align: center;
-        }
+    .contact-info h5 {
+        font-size: 90%;
+        text-align: center;
+    }
 
-        th {
-            font-size: 80%;
-            margin-bottom: 20px;
-        }
+    th {
+        font-size: 80%;
+        margin-bottom: 20px;
+    }
 
-        td {
-            font-size: 80%;
-        }
+    td {
+        font-size: 80%;
+    }
 
-        footer {
-            font-size: 120%;
-        }
+    footer {
+        font-size: 120%;
+    }
 
-        footer a {
-            padding: 5px;
-        }
+    footer a {
+        padding: 5px;
+    }
 }
 
 @media screen and (min-width: 576px) and (max-width: 768px) {
 
-        header {
-            height: 400px;
-        }
-    
-        header h1 {
-            font-size: 18vw;
-            line-height: 90%;
-        }
-    
-        header h3 {
-            display: none;
-        }
-    
-        header p {
-            display: none;
-        }
-    
-        nav ul {
-            font-size: 140%;
-        }
+    header {
+        height: 400px;
+    }
 
-        .intro-center {
-            margin: 30px 0;
-        }
-    
-        .intro-question {
-            margin: 20px 10px;
-        }
-    
-        .intro-question h3 {
-            font-size: 120%;
-        }
-    
-        .intro-question h2 {
-            font-size: 350%;
-            padding: 10px 0;
-        }
-    
-        .basic-info {
-            padding: 10px;
-        }
-    
-        .basic-info-outer {
-            padding: 10px 0;
-        }
-    
-        .basic-info h2 {
-            font-size: 180%;
-        }
-    
-        .basic-info-column {
-            width: 80%;
-            margin-top: 10px;
-            padding: 20px;
-            font-size: 110%;
-        }
-    
-        .plain-intro {
-            padding: 50px 30px 0 30px;
-            font-size: 110%;
-        }
-    
-        .events-img {
-            width: 80%
-        }
-    
-        .events-subheading {
-            text-align: center;
-        }
-    
-        .events-content {
-            font-size: 100%;
-        }
-    
-        .resources-list {
-            padding: 1vw 5vw;
-        }
-    
-        .resources-list h2 {
-            font-size: 200%;
-        }
-    
-        .resources-column {
-            width: 90%;
-            margin: 20px auto;
-            padding: 20px 15px;
-            font-size: 100%;
-        }
-    
-        .join-us-form {
-            width: 80%;
-        }
-    
-        .join-us-form h2 {
-            font-size: 180%;
-            text-align: center;
-            margin-bottom: 10px;
-        }
-    
-        .join-us-form h5 {
-            margin-bottom: 10px;
-            font-size: 120%;
-            text-align: center;
-        }
-    
-        .join-us-form p {
-            margin: 10px 0;
-            font-size: 120%;
-        }
-    
-        .join-button {
-            padding: 10px 20px;
-            font-size: 120%;
-            margin: 15px;
-        }
-    
-        .contact-info {
-            width: 80%;
-            margin: 0 5vw 5vw 5vw;
-            padding: 25px 5px;
-        }
-    
-        .contact-info h3 {
-            margin: 20px 0;
-            font-size: 150%;
-            font-weight: 400;
-            text-align: center;
-        }
-    
-        .contact-info h2 {
-            font-size: 180%;
-            text-align: center;
-        }
-    
-        .contact-info h4 {
-            font-size: 130%;
-            margin-bottom: 20px;
-            text-align: center;
-        }
-    
-        .contact-info h5 {
-            font-size: 110%;
-            text-align: center;
-        }
-    
-        th {
-            font-size: 100%;
-            margin-bottom: 20px;
-        }
-    
-        td {
-            font-size: 90%;
-        }
+    header h1 {
+        font-size: 18vw;
+        line-height: 90%;
+    }
+
+    header h3 {
+        display: none;
+    }
+
+    header p {
+        display: none;
+    }
+
+    nav ul {
+        font-size: 140%;
+    }
+
+    .intro-center {
+        margin: 30px 0;
+    }
+
+    .intro-question {
+        margin: 20px;
+        padding: 5px;
+    }
+
+    .intro-question h3 {
+        font-size: 120%;
+    }
+
+    .intro-question h2 {
+        font-size: 350%;
+        padding: 10px 0;
+    }
+
+    .basic-info {
+        padding: 10px;
+    }
+
+    .basic-info-outer {
+        padding: 10px 0;
+    }
+
+    .basic-info h2 {
+        font-size: 180%;
+    }
+
+    .basic-info-column {
+        width: 80%;
+        margin-top: 10px;
+        padding: 20px;
+        font-size: 110%;
+    }
+
+    .plain-intro {
+        padding: 50px 30px 0 30px;
+        font-size: 110%;
+    }
+
+    .events-img {
+        width: 80%
+    }
+
+    .events-subheading {
+        text-align: center;
+    }
+
+    .events-content {
+        font-size: 100%;
+    }
+
+    .resources-list {
+        padding: 1vw 5vw;
+    }
+
+    .resources-list h2 {
+        font-size: 200%;
+    }
+
+    .resources-column {
+        width: 90%;
+        margin: 20px auto;
+        padding: 20px 15px;
+        font-size: 100%;
+    }
+
+    .join-us-form {
+        width: 80%;
+    }
+
+    .join-us-form h2 {
+        font-size: 180%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .join-us-form h5 {
+        margin-bottom: 10px;
+        font-size: 120%;
+        text-align: center;
+    }
+
+    .join-us-form p {
+        margin: 10px 0;
+        font-size: 120%;
+    }
+
+    .join-button {
+        padding: 10px 20px;
+        font-size: 120%;
+        margin: 15px;
+    }
+
+    .contact-info {
+        width: 80%;
+        margin: 0 5vw 5vw 5vw;
+        padding: 25px 5px;
+    }
+
+    .contact-info h3 {
+        margin: 20px 0;
+        font-size: 150%;
+        font-weight: 400;
+        text-align: center;
+    }
+
+    .contact-info h2 {
+        font-size: 180%;
+        text-align: center;
+    }
+
+    .contact-info h4 {
+        font-size: 130%;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .contact-info h5 {
+        font-size: 110%;
+        text-align: center;
+    }
+
+    th {
+        font-size: 100%;
+        margin-bottom: 20px;
+    }
+
+    td {
+        font-size: 90%;
+    }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1200px) {
@@ -713,7 +714,7 @@ footer a {
         margin: 0 10vw 5vw 10vw;
         padding: 25px 15px;
     }
-    
+
     .join-us-form {
         width: 70%;
         margin: 5vw 10vw 5vw 10vw;
@@ -722,7 +723,7 @@ footer a {
 }
 
 @media screen and (min-width: 1200px) and (max-width: 1400px) {
-    
+
     header {
         height: 350px;
     }
@@ -739,12 +740,12 @@ footer a {
         font-size: 1.8vw;
     }
 
-    .intro-question h3{
-    font-size: 125%;
+    .intro-question h3 {
+        font-size: 125%;
     }
 
-    .intro-question h2{
-    font-size: 350%;
-    padding: 10px 0;
+    .intro-question h2 {
+        font-size: 350%;
+        padding: 10px 0;
     }
 }
