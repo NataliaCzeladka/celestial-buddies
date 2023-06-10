@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@600;700&family=Libre+Baskerville:wght@400;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -35,7 +37,6 @@ header h1 {
 
 /*Credit: code for outline effect taken from stackoverflow.com and edited slightly to fit project needs*/
 header h3 {
-    font-family: 'Libre Baskerville', serif;
     color: #cf8a72;
     font-size: 1.8em;
     font-weight: 700;
@@ -46,7 +47,6 @@ header h3 {
 
 /*Credit: code for outline effect taken from stackoverflow.com and edited slightly to fit project needs*/
 header p {
-    font-family: 'Libre Baskerville', serif;
     font-size: 1.4em;
     text-align: center;
     text-shadow: #000 4px 4px 4px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
