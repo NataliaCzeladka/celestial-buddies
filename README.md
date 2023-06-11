@@ -36,3 +36,12 @@ Are you interested in astronomy and planetary science? Why don't you take a look
   - To easily find the latest information and updates e.g., upcoming events, new learning resources.
   - To easily find and revisit user's favourite content.
   - To access community and to get in touch with other members - feature available in the future when the site expands.
+
+## Design
+
+### Colour Scheme
+
+The colour scheme chosen for the Celestial Buddies website combines the timeless elegance of black and white with subtle shades of blue and the deep, warm shade of brown called burnt sienna. These colours are commonly assosiated with the beauty of the night sky. The use of black and white may bring to mind the vastness of the cosmos, while the blue tones add depth and tranguility of the Universe.
+
+<img src="assets/images/ColourPalette_updated.png>
+
