@@ -41,7 +41,7 @@ header h3 {
     font-size: 1.8em;
     font-weight: 700;
     text-align: center;
-    text-shadow: #000 4px 4px 4px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
+    text-shadow: #000 2px 2px 2px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -49,7 +49,7 @@ header h3 {
 header p {
     font-size: 1.4em;
     text-align: center;
-    text-shadow: #000 4px 4px 4px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
+    text-shadow: #000 2px 2px 2px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
     -webkit-font-smoothing: antialiased;
 }
 
