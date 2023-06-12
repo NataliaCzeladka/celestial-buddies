@@ -6,11 +6,26 @@ Celestial Buddies website is a website provided for a local, amateur astronomy c
 
 Are you interested in astronomy and planetary science? Why don't you take a look at Celestial Buddies' deployed website? [Celestial Buddies Website](https://nataliaczeladka.github.io/celestial-buddies/)
 
+## Table of Contents
+
+- [Celestial Buddies Website](#celestial-buddies-website)
+  - [Table of Contents](#table-of-contents)
+  - [User Experience (UX)](#user-experience-ux)
+    - [User Stories](#user-stories)
+      - [Client Goals](#client-goals)
+      - [First Time User Goals](#first-time-user-goals)
+      - [Returning User Goals](#returning-user-goals)
+      - [Frequent User Goals](#frequent-user-goals)
+  - [Design](#design)
+    - [Colour Scheme](#colour-scheme)
+    - [Typography](#typography)
+    - [Imagery](#imagery)
+
 ## User Experience (UX)
 
 ### User Stories
 
-- Client Goals
+#### Client Goals
   - To have an online presence.
   - To create a welcoming and inclusive community, where people of all skill levels can come together to learn about the wonders of the Universe.
   - To provide educational opportunities that attract both beginners and experienced astronomy enthusiasts through various types of activities like regular meetups, workshops, stargazing sessions, day trips etc.
@@ -18,7 +33,7 @@ Are you interested in astronomy and planetary science? Why don't you take a look
   - To describe it all briefly on the website, including information about times and locations of the meetups, contact details, social media links.
   - To attract potential members by providing it all in a form of a visually appealing, intuitive, responsive across different devices and easy to navigate website.
 
-- First Time User Goals
+#### First Time User Goals
   - To navigate throughout the page in an easy, effortless and intuitive way.
   - To understand the club's main purpose, its mission and values.
   - To quickly locate relevant information like learning resources, upcoming events etc.
@@ -27,12 +42,12 @@ Are you interested in astronomy and planetary science? Why don't you take a look
   - To be able to sign up for a membership in a quick and easy way.
   - To have a positive and enjoyable experience while browsing the website.
 
-- Returning User Goals
+#### Returning User Goals
   - To find the best way to get in contact with the club's members or to sign up.
   - To locate information about times and locations of the meetups.
   - To access their social media.
 
-- Frequent User Goals
+#### Frequent User Goals
   - To easily find the latest information and updates e.g., upcoming events, new learning resources.
   - To easily find and revisit user's favourite content.
   - To access community and to get in touch with other members - feature available in the future when the site expands.
@@ -43,7 +58,7 @@ Are you interested in astronomy and planetary science? Why don't you take a look
 
 The colour scheme chosen for the Celestial Buddies website combines the timeless elegance of black and white with subtle shades of blue and the deep, warm shade of brown called burnt sienna. These colours are commonly assosiated with the beauty of the night sky. The use of black and white may bring to mind the vastness of the cosmos, while the blue tones add depth and tranguility of the Universe.
 
-<img src="assets/images/ColourPalette_updated.png">
+![Colour Palette](assets/images/ColourPalette_updated.png)
 
 ### Typography
 
