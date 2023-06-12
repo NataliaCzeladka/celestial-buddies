@@ -19,7 +19,7 @@ Are you interested in astronomy and planetary science? Why don't you take a look
   - To attract potential members by providing it all in a form of a visually appealing, intuitive, responsive across different devices and easy to navigate website.
 
 - First Time User Goals
-  - To navigate throught the page in an easy, effortless and intuitive way.
+  - To navigate throughout the page in an easy, effortless and intuitive way.
   - To understand the club's main purpose, its mission and values.
   - To quickly locate relevant information like learning resources, upcoming events etc.
   - To learn about various types of activities available for club's members.
@@ -47,6 +47,14 @@ The colour scheme chosen for the Celestial Buddies website combines the timeless
 
 ### Typography
 
-To emphasize the contrast between main headings and paragraphs, I have carefully selected two different fonts. They are both Google Fonts and they are both Serif, but this is where similarities end. The fonts were paired in the way that enhances the visual hierarchy of the website and highlights essential information.<br>
-The [Libre Baskerville](https://fonts.google.com/specimen/Libre+Baskerville?query=libre) font is the main font used throughout the whole website with Serif as the fallback font. It's a clean and legible font that ensures easy readability. It was mainly used to provide text content to the paragraphs.<br>
-The [Cormorant SC](https://fonts.google.com/specimen/Cormorant+SC?query=cormorant+) font was used for nearly all of the main headings, navigational bar and the footer. It's a bold and eye-catching font that easily draws attention, perfect for the main title of the website.
+To emphasize the contrast between main headings and paragraphs, I have carefully selected two different fonts. They are both Google Fonts and they are both Serif, but this is where similarities end. The fonts were paired in the way that enhances the visual hierarchy of the website and highlights essential information.
+
+* The [Libre Baskerville](https://fonts.google.com/specimen/Libre+Baskerville?query=libre) font is the main font used throughout the whole website with Serif as the fallback font. It's a clean and legible font that ensures easy readability. It was mainly used to provide text content to the paragraphs.
+
+* The [Cormorant SC](https://fonts.google.com/specimen/Cormorant+SC?query=cormorant+) font was used for nearly all of the main headings, navigational bar and the footer. It's a bold and eye-catching font that easily draws attention, perfect for the main title of the website.
+
+### Imagery
+
+Imagery plays a vital role in capturing the awe-inspiring beauty of the cosmos on the Celestial Buddies website. Its main purpose is to inspire and immerse visitors in the captivating word of astronomy, and to encourage them to expand their knowledge on this topic.
+
+The images used on the website were sourced from three leading providers of stock photography: [Shutterstock](https://www.shutterstock.com/), [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/).
