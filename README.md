@@ -43,5 +43,10 @@ Are you interested in astronomy and planetary science? Why don't you take a look
 
 The colour scheme chosen for the Celestial Buddies website combines the timeless elegance of black and white with subtle shades of blue and the deep, warm shade of brown called burnt sienna. These colours are commonly assosiated with the beauty of the night sky. The use of black and white may bring to mind the vastness of the cosmos, while the blue tones add depth and tranguility of the Universe.
 
-<img src="assets/images/ColourPalette_updated.png>
+<img src="assets/images/ColourPalette_updated.png">
 
+### Typography
+
+To emphasize the contrast between main headings and paragraphs, I have carefully selected two different fonts. They are both Google Fonts and they are both Serif, but this is where similarities end. The fonts were paired in the way that enhances the visual hierarchy of the website and highlights essential information.<br>
+The [Libre Baskerville](https://fonts.google.com/specimen/Libre+Baskerville?query=libre) font is the main font used throughout the whole website with Serif as the fallback font. It's a clean and legible font that ensures easy readability. It was mainly used to provide text content to the paragraphs.<br>
+The [Cormorant SC](https://fonts.google.com/specimen/Cormorant+SC?query=cormorant+) font was used for nearly all of the main headings, navigational bar and the footer. It's a bold and eye-catching font that easily draws attention, perfect for the main title of the website.
