@@ -21,6 +21,9 @@ Are you interested in astronomy and planetary science? Why don't you take a look
     - [Typography](#typography)
     - [Imagery](#imagery)
     - [Wireframes](#wireframes)
+  - [Technologies Used](#technologies-used)
+    - [Languages Used](#languages-used)
+    - [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
 
 ## User Experience (UX)
 
@@ -107,6 +110,31 @@ Wireframes were created using [Balsamiq](https://balsamiq.com/wireframes/) - the
 - [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - used to inspect and debug the code.
 - [Google Fonts](https://fonts.google.com/) - used to import the fonts that style all of the text content.
 - [Git](https://git-scm.com/) - used for version control by utilizing CodeAnywhere's terminal.
-- [GitHub](https://github.com/) - used to store the project's code and images in the repository.
+- [GitHub](https://github.com/) - used to store the project's code and images i
+n the repository.
 - [GitHub Pages](https://pages.github.com/) - used to deploy the website.
 - [Tiny.png](https://tinypng.com/) - used to reduce the size of the image files.
+
+## Testing
+
+### Code Validation
+
+The W3C Markup Validator and W3C CSS Validator were used to validate every page of the project to ensure there were no syntax errors.
+
+#### HTML Validation
+
+The [W3C Markup Validation Service](https://validator.w3.org/) was used to validate all four HTML files. No errors or warnings were found.
+
+![index.html validation](assets/images/index.html_validation.png)
+
+![events.html validation](assets/images/events.html_validation.png)
+
+![resources.html validation](assets/images/resources.html_validation.png)
+
+![form.html validation](assets/images/form.html_validation.png)
+
+#### CSS Validation
+
+The [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to validate the CSS stylesheet. No errors were found.
+
+![style.css validation](assets/images/style.css_validation.png)
