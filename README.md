@@ -24,6 +24,14 @@ Are you interested in astronomy and planetary science? Why don't you take a look
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
     - [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
+  - [Testing](#testing)
+    - [Code Validation](#code-validation)
+      - [HTML Validation](#html-validation)
+      - [CSS Validation](#css-validation)
+  - [Deployment](#deployment)
+    - [Deploying the project to GitHub Pages](#deploying-the-project-to-github-pages)
+    - [Forking the GitHub repository](#forking-the-github-repository)
+    - [Making a local clone](#making-a-local-clone)
 
 ## User Experience (UX)
 
@@ -119,7 +127,7 @@ n the repository.
 
 ### Code Validation
 
-The W3C Markup Validator and W3C CSS Validator were used to validate every page of the project to ensure there were no syntax errors.
+The W3C Markup Validator and W3C CSS Validator were used to validate every page of the project to ensure there were no syntax errors. The results clearly showed that the website stays in compliance with the standards and recommendations set by the World Wide Web Consortium.
 
 #### HTML Validation
 
@@ -138,3 +146,33 @@ The [W3C Markup Validation Service](https://validator.w3.org/) was used to valid
 The [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to validate the CSS stylesheet. No errors were found.
 
 ![style.css validation](assets/images/style.css_validation.png)
+
+## Deployment
+
+### Deploying the project to GitHub Pages
+
+1. Log in to your GitHub account and locate the repository you would like to deploy.
+2. Navigate to the "Settings" tab at the top of your selected repository.
+3. Select "Pages" from the menu on the left-hand side of the screen.
+4. Make sure the "Select" dropdown menu shows "Deploy from a branch".
+5. From the "Branch" dropdown menu select "Master Branch" and click "Save".
+6. The page will automatically refresh and display the link to your deployed website
+
+### Forking the GitHub repository
+
+By forking the repository, you make a copy of the original repository on your GitHub account to view or to make changes to, without affecting the original repository.
+
+1. Log in to your GitHub accound and locate the repository you would like to fork.
+2. At the top of the repository on the right-hand side of the screen, locate the "Fork" button.
+3. After clicking on it, you should have your own copy of the original repository in your GitHub account.
+
+### Making a local clone
+
+Making a clone is basically making a copy of the selected repository.
+
+1. Log in to your GitHub account and locate the repository you would like to clone.
+2. Click on the "Code" button just under the repository name.
+3. Copy the HTTPS link from the website address bar.
+4. Open a GitBash terminal and locate the directory where you want to place the clone.
+5. Type 'git clone' and then paste the URL you copied earlier.
+6. Press enter. Then your local clone will be created.
