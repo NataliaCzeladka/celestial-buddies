@@ -25,7 +25,7 @@ Are you interested in astronomy and planetary science? Why don't you take a look
 
 ### User Stories
 
-#### Client Goals
+#### Client Goals 
   - To have an online presence.
   - To create a welcoming and inclusive community, where people of all skill levels can come together to learn about the wonders of the Universe.
   - To provide educational opportunities that attract both beginners and experienced astronomy enthusiasts through various types of activities like regular meetups, workshops, stargazing sessions, day trips etc.
