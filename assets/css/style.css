@@ -26,7 +26,7 @@ header {
     justify-content: center;
 }
 
-/*Credit: code for outline effect taken from stackoverflow.com and edited slightly to fit project needs*/
+/* Credit: code for outline effect taken from stackoverflow.com and edited slightly to fit project needs */
 header h1 {
     font-family: 'Cormorant SC', serif;
     font-size: 10em;
@@ -35,7 +35,7 @@ header h1 {
     -webkit-font-smoothing: antialiased;
 }
 
-/*Credit: code for outline effect taken from stackoverflow.com and edited slightly to fit project needs*/
+/* Credit: code for outline effect taken from stackoverflow.com and edited slightly to fit project needs */
 header h3 {
     color: #cf8a72;
     font-size: 1.8em;
@@ -45,7 +45,7 @@ header h3 {
     -webkit-font-smoothing: antialiased;
 }
 
-/*Credit: code for outline effect taken from stackoverflow.com and edited slightly to fit project needs*/
+/* Credit: code for outline effect taken from stackoverflow.com and edited slightly to fit project needs */
 header p {
     font-size: 1.4em;
     text-align: center;
@@ -265,7 +265,7 @@ nav a {
     border-radius: 2px;
 }
 
-/*Credit: code for outline effect taken from stackoverflow.com and edited slightly to fit project needs*/
+/* Credit: code for outline effect taken from stackoverflow.com and edited slightly to fit project needs */
 .join-us-form h2 {
     font-size: 230%;
     color: #cf8a72;
@@ -312,7 +312,7 @@ nav a {
     padding: 2%;
 }
 
-/*Credit: code for outline effect taken from stackoverflow.com and edited slightly to fit project needs*/
+/* Credit: code for outline effect taken from stackoverflow.com and edited slightly to fit project needs */
 .contact-info h3 {
     margin: 20px 0;
     font-size: 150%;
