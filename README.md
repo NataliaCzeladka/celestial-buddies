@@ -79,6 +79,8 @@ Are you interested in astronomy and planetary science? Why don't you take a look
 
 The colour scheme chosen for the Celestial Buddies website combines the timeless elegance of black and white with subtle shades of blue and the deep, warm shade of brown called burnt sienna. These colours are commonly assosiated with the beauty of the night sky. The use of black and white may bring to mind the vastness of the cosmos, while the blue tones add depth and tranguility of the Universe.
 
+I used [Coolors](https://coolors.co/e84610-009fe3-4a4a4f-445261-d63649-e6ecf0-000000) to generate my colour palette.
+
 ![Colour Palette](docs/colour_palette.png)
 
 ### Typography
@@ -88,6 +90,8 @@ To emphasize the contrast between main headings and paragraphs, I have carefully
 - The [Libre Baskerville](https://fonts.google.com/specimen/Libre+Baskerville?query=libre) font is the main font used throughout the whole website with Serif as the fallback font. It's a clean and legible font that ensures easy readability. It was mainly used to provide text content to the paragraphs.
 
 - The [Cormorant SC](https://fonts.google.com/specimen/Cormorant+SC?query=cormorant+) font was used for nearly all of the main headings, navigational bar and the footer. It's a bold and eye-catching font that easily draws attention, perfect for the main title of the website.
+
+[Font Awesome](https://fontawesome.com/) icons were used throughout the site, such as the social media icons in the footer.
 
 ### Imagery
 
@@ -99,18 +103,18 @@ The images used on the website were sourced from three leading providers of stoc
 
 Wireframes were created using [Balsamiq](https://balsamiq.com/wireframes/) - the industry top wireframing software.
 
-![Mobile Wireframes](docs/wireframes_mobile.png)
-
-![Tablet Wireframes](docs/wireframes_tablet.png)
-
-![Desktop Wireframes](docs/wireframes_desktop.png)
+| Size | Screenshot |
+| --- | --- |
+| Mobile | ![Mobile Wireframes](docs/wireframes_mobile.png) |
+| Tablet | ![Tablet Wireframes](docs/wireframes_tablet.png) |
+| Desktop | ![Desktop Wireframes](docs/wireframes_desktop.png) |
 
 ## Technologies Used
 
 ### Languages Used
 
-- HTML5 - to format, arrange and display the website content.
-- CSS3 - to define colour, size and position of HTML elements.
+- [HTML](https://en.wikipedia.org/wiki/HTML) - used for the main site content.
+- [CSS](https://en.wikipedia.org/wiki/CSS) - used for the main site design and layout.
 
 ### Frameworks, Libraries and Programs Used
 
@@ -120,6 +124,7 @@ Wireframes were created using [Balsamiq](https://balsamiq.com/wireframes/) - the
 - [CodeAnywhere](https://app.codeanywhere.com/) - used as cloud IDE to write, edit and save the code.
 - [Coolors](https://coolors.co/) - used to create the colour palette.
 - [Font Awesome](https://fontawesome.com/) - used to provide icons across the website.
+- [Free Convert](https://www.freeconvert.com/jpg-to-webp) - used to convert jpg images to webp format.
 - [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - used to inspect and debug the code.
 - [Google Fonts](https://fonts.google.com/) - used to import the fonts that style all of the text content.
 - [Git](https://git-scm.com/) - used for version control by utilizing CodeAnywhere's terminal.
@@ -130,27 +135,7 @@ n the repository.
 
 ## Testing
 
-### Code Validation
-
-The W3C Markup Validator and W3C CSS Validator were used to validate every page of the project to ensure there were no syntax errors. The results clearly showed that the website stays in compliance with the standards and recommendations set by the World Wide Web Consortium.
-
-#### HTML Validation
-
-The [W3C Markup Validation Service](https://validator.w3.org/) was used to validate all four HTML files. No errors or warnings were found.
-
-![index.html validation](docs/index.html_validation.png)
-
-![events.html validation](docs/events.html_validation.png)
-
-![resources.html validation](docs/resources.html_validation.png)
-
-![form.html validation](docs/form.html_validation.png)
-
-#### CSS Validation
-
-The [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to validate the CSS stylesheet. No errors were found.
-
-![style.css validation](docs/style.css_validation.png)
+For all testing, please refer to the [TESTING.md](TESTING.md) file.
 
 ## Deployment
 
@@ -160,7 +145,7 @@ The [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used 
 2. Navigate to the "Settings" tab at the top of your selected repository.
 3. Select "Pages" from the menu on the left-hand side of the screen.
 4. Make sure the "Select" dropdown menu shows "Deploy from a branch".
-5. From the "Branch" dropdown menu select "Master Branch" and click "Save".
+5. From the "Branch" dropdown menu select "Main" and click "Save".
 6. The page will automatically refresh and display the link to your deployed website.
 
 ### Forking the GitHub repository
@@ -219,6 +204,7 @@ The images used on the website were sourced from three leading providers of stoc
 
 ### Acknowledgements
 
-- Tim Nelson (mentor at Code Institute) - for his guidance, constructive feedback, understanding and always finding a kind word of comfort when things were getting complicated and I felt incompetent and overwhelmed.
-- Callum Jones (Newcastle College cohort facilitator) - for his helpful advice and continuous encouragement throughout the creation of my website.
-- Code Institute's Tutor Support - for their time, effort and patiently guiding me through the topics I struggled with.
+- [Tim Nelson](https://github.com/TravelTimN) (my Code Institute mentor) - for his guidance, constructive feedback, understanding and always finding a kind word of comfort when things were getting complicated and I felt incompetent and overwhelmed.
+- [Callum Jones](https://www.linkedin.com/in/callum-jones-9b80941b8/) (Newcastle College cohort facilitator) - for his helpful advice and continuous encouragement throughout the creation of my website.
+- [Code Institute](https://codeinstitute.net) Tutor Support Team - for their assistance with troubleshooting and debugging some project issues.
+- [Code Institute Slack Community](https://code-institute-room.slack.com) - for the moral support; it kept me going during periods of self doubt and imposter syndrome.
