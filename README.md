@@ -2,7 +2,7 @@
 
 The Celestial Buddies website is a website provided for a local, amateur astronomy club. It contains basic information for potential members, who may be interested in joining in for a regular monthly meetups or stargazing events. It also provides information on bigger events organised by the club like day trips and workshops, resources that may be useful for astronomy enthusiasts, and links to additional social media accounts used by the club. The site is comprised of four pages: Home, Events, Resources and Join Us.
 
-![Celestial Buddies Website](assets/docs/MockUp_updated.png)
+![Celestial Buddies Website](docs/mockup_updated.png)
 
 Are you interested in astronomy and planetary science? Why don't you take a look at Celestial Buddies' deployed website? [Celestial Buddies Website](https://nataliaczeladka.github.io/celestial-buddies/)
 
@@ -79,7 +79,7 @@ Are you interested in astronomy and planetary science? Why don't you take a look
 
 The colour scheme chosen for the Celestial Buddies website combines the timeless elegance of black and white with subtle shades of blue and the deep, warm shade of brown called burnt sienna. These colours are commonly assosiated with the beauty of the night sky. The use of black and white may bring to mind the vastness of the cosmos, while the blue tones add depth and tranguility of the Universe.
 
-![Colour Palette](assets/docs/ColourPalette_updated.png)
+![Colour Palette](docs/colour_palette.png)
 
 ### Typography
 
@@ -99,11 +99,11 @@ The images used on the website were sourced from three leading providers of stoc
 
 Wireframes were created using [Balsamiq](https://balsamiq.com/wireframes/) - the industry top wireframing software.
 
-![Mobile Wireframes](assets/docs/Wireframes_mobile.png)
+![Mobile Wireframes](docs/wireframes_mobile.png)
 
-![Tablet Wireframes](assets/docs/Wireframes_tablet.png)
+![Tablet Wireframes](docs/wireframes_tablet.png)
 
-![Desktop Wireframes](assets/docs/Wireframes_desktop.png)
+![Desktop Wireframes](docs/wireframes_desktop.png)
 
 ## Technologies Used
 
@@ -138,19 +138,19 @@ The W3C Markup Validator and W3C CSS Validator were used to validate every page 
 
 The [W3C Markup Validation Service](https://validator.w3.org/) was used to validate all four HTML files. No errors or warnings were found.
 
-![index.html validation](assets/docs/index.html_validation.png)
+![index.html validation](docs/index.html_validation.png)
 
-![events.html validation](assets/docs/events.html_validation.png)
+![events.html validation](docs/events.html_validation.png)
 
-![resources.html validation](assets/docs/resources.html_validation.png)
+![resources.html validation](docs/resources.html_validation.png)
 
-![form.html validation](assets/docs/form.html_validation.png)
+![form.html validation](docs/form.html_validation.png)
 
 #### CSS Validation
 
 The [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to validate the CSS stylesheet. No errors were found.
 
-![style.css validation](assets/docs/style.css_validation.png)
+![style.css validation](docs/style.css_validation.png)
 
 ## Deployment
 
@@ -189,12 +189,12 @@ Making a clone is basically making a copy of the selected repository.
 - Code for the outline effect used on a multiple occasions across the CSS stylesheet was taken from [Stack Overflow](<https://stackoverflow.com/questions/4919076/outline-effect-to-text>) and got slightly edited to fit the project needs.
 
 Screenshot of the post:
-![Outline Effect](assets/docs/outline_effect_credit.png)
+![Outline Effect](docs/outline_effect_credit.png)
 
 - Code for non-breaking space, needed to always keep "Join" and "Us" together in the last tab of the navigation bar, was taken from [W3Schools](https://www.w3schools.com/html/html_entities.asp).
 
 Screenshot of the article:
-![Non-breaking Space](assets/docs/non_breaking_space_credits.png)
+![Non-breaking Space](docs/non_breaking_space_credit.png)
 
 - [Bootstrap v5.3](https://getbootstrap.com/) - Bootstrap's 'container-fluid' was used throughout the project to make the site responsive.
 
