@@ -30,6 +30,17 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 I have tested my deployed project on multiple browsers to check for compatibility issues.
 | Browser | Screenshot | Notes |
 | --- | --- | --- |
-| Chrome | ![screenshot](documentation/browser-chrome.png) | Works as expected |
-| Firefox | ![screenshot](documentation/browser-firefox.png) | Works as expected |
-| Edge | ![screenshot](documentation/browser-edge.png) | Works as expected |
+| Chrome | ![screenshot](docs/chrome.png) | Works as expected |
+| Firefox | ![screenshot](docs/firefox.png) | Works as expected |
+| Edge | ![screenshot](docs/edge.png) | Works as expected |
+| Opera | ![screenshot](docs/opera.png) | Works as expected |
+
+## Responsiveness
+
+I have tested my deployed project on multiple devices to check for responsiveness issues. It responds well to different screen sizes ensuring that users can access and navigate the content effortlessly, regardless of their chosen device. No design or functionality issues found.
+
+| Device | Screenshot | Notes |
+| --- | --- | --- |
+| Mobile (DevTools) | ![screenshot](docs/mobile.png) | Works as expected |
+| Tablet (DevTools) | ![screenshot](docs/tablet.png) | Works as expected |
+| Desktop | ![screenshot](docs/chrome.png) | Works as expected |
