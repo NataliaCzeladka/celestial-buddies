@@ -32,6 +32,11 @@ Are you interested in astronomy and planetary science? Why don't you take a look
     - [Deploying the project to GitHub Pages](#deploying-the-project-to-github-pages)
     - [Forking the GitHub repository](#forking-the-github-repository)
     - [Making a local clone](#making-a-local-clone)
+  - [Credits](#credits)
+    - [Code](#code)
+    - [Content](#content)
+    - [Media](#media)
+    - [Acknowledgements](#acknowledgements)
 
 ## User Experience (UX)
 
@@ -156,13 +161,13 @@ The [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used 
 3. Select "Pages" from the menu on the left-hand side of the screen.
 4. Make sure the "Select" dropdown menu shows "Deploy from a branch".
 5. From the "Branch" dropdown menu select "Master Branch" and click "Save".
-6. The page will automatically refresh and display the link to your deployed website
+6. The page will automatically refresh and display the link to your deployed website.
 
 ### Forking the GitHub repository
 
 By forking the repository, you make a copy of the original repository on your GitHub account to view or to make changes to, without affecting the original repository.
 
-1. Log in to your GitHub accound and locate the repository you would like to fork.
+1. Log in to your GitHub account and locate the repository you would like to fork.
 2. At the top of the repository on the right-hand side of the screen, locate the "Fork" button.
 3. After clicking on it, you should have your own copy of the original repository in your GitHub account.
 
@@ -176,3 +181,42 @@ Making a clone is basically making a copy of the selected repository.
 4. Open a GitBash terminal and locate the directory where you want to place the clone.
 5. Type 'git clone' and then paste the URL you copied earlier.
 6. Press enter. Then your local clone will be created.
+
+## Credits
+
+### Code
+
+- Code for the outline effect used on a multiple occasions across the CSS stylesheet was taken from [Stack Overflow](<https://stackoverflow.com/questions/4919076/outline-effect-to-text>) and got slightly edited to fit the project needs.
+
+![Outline Effect](assets/images/outline_effect_credit.png)
+
+- Code for non-breaking space needed to always keep "Join" and "Us" together in the last tab of the navigation bar was taken from [W3Schools](https://www.w3schools.com/html/html_entities.asp).
+
+![Non-breaking Space](assets/images/non_breaking_space_credits.png)
+
+- [Bootstrap v5.3](https://getbootstrap.com/) - Bootstrap's 'container-fluid' was used throughout the project to make the site responsive.
+
+### Content
+
+- [The National Space Centre's Website](https://www.spacecentre.co.uk/) - information contained in the "Upcoming Day Trips" section of the "Events" page.
+- [The Royal Observatory's Website](https://www.rmg.co.uk/royal-observatory) - information contained in the "Upcoming Day Trips" section of the "Events" page.
+- [The Science Museum's Website](https://www.sciencemuseum.org.uk/) - information contained in the "Upcoming Day Trips" section of the "Events" page.
+- [The European AstroFest's Website](https://europeanastrofest.com/) - information contained in the "Regular Events" section of the "Events" page.
+- [English Heritage Webiste](https://www.english-heritage.org.uk/visit/places/stonehenge/) - information about Stonehenge contained in the "Regular Events" section of the "Events" page.
+- [The Practical Astronomy Show's Website](https://practicalastroshow.com/) - information contained in the "Past Events" section of the "Events" page.
+- [The European Space Agency's Website](https://www.esa.int/) - information contained in the "Past Events" section of the "Events" page.
+- ["Meet a NASA engineer" Video](https://www.youtube.com/watch?v=jUMDVncHNes) - information contained in the "Past Events" section of the "Events" page.
+- ["Best Space and Astronomy Books 2023" Article](https://www.space.com/32982-best-astronomy-books.html) - the list of books contained in the "Books" section of the "Resources" page.
+- ["Top 20 Astronomy Magazines and Publications" Article](https://blog.feedspot.com/astronomy_magazines/) - the list of magazines contained in the "Magazines" section of the "Resources" page.
+- ["10 Amazing Astronomy Websites to Get to Know the Universe" Article](https://www.makeuseof.com/tag/universe-amazing-astronomy-websites/) - the list of websites contained in the "Websites" section of the "Resources" page.
+- ["The 10 Best Astronomy Apps for Enjoying the Night Sky" Article](https://www.makeuseof.com/tag/great-android-astronomy-apps/) - the list of astronomy apps contained in the "Websites" section of the "Resources" page.
+
+### Media
+
+The images used on the website were sourced from three leading providers of stock photography: [Shutterstock](https://www.shutterstock.com/), [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/).
+
+### Acknowledgements
+
+- Tim Nelson (mentor at Code Institute) - for his guidance, constructive feedback, understanding and always finding a kind word of comfort when things were getting complicated and I felt incompetent and overwhelmed.
+- Callum Jones (Newcastle College cohort facilitator) - for his helpful advice and continuous encouragement throughout the creation of my website.
+- Code Institute's Tutor Support - for their time, effort and patiently guiding me through the topics I struggled with.
