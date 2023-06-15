@@ -707,8 +707,25 @@ footer a {
         font-size: 1.8vw;
     }
 
+    .intro-center {
+        padding: 0 30px;
+    }
+
+    .intro-question h3 {
+        font-size: 120%;
+    }
+
+    .intro-question h2 {
+        font-size: 500%;
+    }
+
+
     .basic-info {
-        padding: 30px;
+        padding: 0 30px 30px 30px;
+    }
+
+    .basic-info-outer {
+        padding: 20px 0;
     }
 
     .contact-info {
