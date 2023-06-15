@@ -137,7 +137,7 @@ nav a {
 }
 
 .basic-info {
-    padding: 50px 50px;
+    padding: 50px;
     text-align: center;
 }
 
@@ -396,6 +396,10 @@ footer a {
         padding: 10px 0;
     }
 
+    .basic-info {
+        padding: 10px;
+    }
+
     .basic-info-outer {
         padding: 10px 0;
     }
@@ -572,6 +576,10 @@ footer a {
     .intro-question h2 {
         font-size: 350%;
         padding: 10px 0;
+    }
+
+    .basic-info {
+        padding: 10px;
     }
 
     .basic-info-outer {
