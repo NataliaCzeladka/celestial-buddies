@@ -130,12 +130,12 @@ I have tested my deployed project using the Lighthouse Audit tool to check for a
 
 - I have initially written a lot of separate CSS declarations for various elements and classes changing background colour to black and font colour to white. Then I realised that it would be much easier and code efficient to replace it with one declaration for the entire body: `body {background-color: #000; Ucolor: #fff;}`
 
-- I have assigned `class="active"` to an `<a>` instead of `<li>` in the navigation bar, what resulted in the active tab changing colour to `#15418c` only in the middle. It wasn't visible on the big screen sizes. I have noticed this bug quite late in the process, when I was trying to figure out how to make a navbar responsive on smaller devices, and I used Flexbox for this purpose.
+- I have assigned `class="active"` to an `<a>` element instead of a `<li>` element in the navigation bar. It resulted in the active tab changing colour to `#15418c` only in its centre, where the `<a>` element sits. It wasn't visible on the big screen sizes. I have noticed this bug quite late in the process, when I was trying to make the navbar responsive on smaller devices, and I used Flexbox for this purpose.
 
-## Unfixed Bugs
-
-- Overflowing content of basic-info container on the Home page of small and medium devices results in a horizontal scroll bar being displayed. I tried to fix this error by completely removing `.basic-info` from Media Queries and it worked, but I didn't like how it looked. That's why I'm going to bring it back on for now and try to resolve this issue in a more convenient time.
+- Overflowing content of basic-info container on the Home page of small and medium devices resulted in a horizontal scroll bar being displayed. I fixed this error by changing the value of the padding property.
 
 ![Overflowing Bug](docs/overflow.png)
 
-- I was told by my mentor that font size of any text content should never be smaller than 16px (even on small devices), which means some of the font sizes I used in Media Queries need to be corrected.
+## Unfixed Bugs
+
+There are no remaining bugs that I am aware of.

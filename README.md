@@ -56,16 +56,16 @@ Are you interested in astronomy and planetary science? Why don't you take a look
 - To navigate throughout the page in an easy, effortless and intuitive way.
 - To understand the club's main purpose, its mission and values.
 - To quickly locate relevant information like learning resources, upcoming events etc.
-- To learn about various types of activities available for club's members.
-- To find the club's social media links in order to determine how trusted and known they are.
+- To learn about various types of activities available for the club members.
+- To find the club social media links in order to determine how trusted and known they are.
 - To be able to sign up for a membership in a quick and easy way.
 - To have a positive and enjoyable experience while browsing the website.
 
 #### Returning User Goals
 
-- To find the best way to get in contact with the club's members or to sign up.
+- To find the best way to get in contact with the club members or to sign up.
 - To locate information about times and locations of the meetups.
-- To access their social media.
+- To access their social media accounts.
 
 #### Frequent User Goals
 
@@ -97,7 +97,11 @@ To emphasize the contrast between main headings and paragraphs, I have carefully
 
 Imagery plays a vital role in capturing the awe-inspiring beauty of the cosmos on the Celestial Buddies website. Its main purpose is to inspire and immerse visitors in the captivating word of astronomy, and to encourage them to expand their knowledge on this topic.
 
-The images used on the website were sourced from three leading providers of stock photography: [Shutterstock](https://www.shutterstock.com/), [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/).
+The images used on the website were sourced from three leading providers of stock photography: 
+
+- [Shutterstock](https://www.shutterstock.com/),
+- [Pexels](https://www.pexels.com/),
+- [Unsplash](https://unsplash.com/).
 
 ### Wireframes
 
@@ -125,7 +129,7 @@ Some features are common for all of them. These are:
   
 ![Navigation Bar](docs/navbar.png)
 
-- Page Footer - It also stretches across the entire width of the screen. It consists on copyright information on the left side, and social media links on the right side. It was created using Bootstrap's `container-fluid`. Social media icons change their colour to black when a user hovers over them.
+- Page Footer - It also stretches across the entire width of the screen. It consists of copyright information on the left side, and social media links on the right side. It was created using Bootstrap's `container-fluid`. Social media icons change their colour to black when a user hovers over them.
 
 ![Page Footer](docs/page_footer.png)
 
@@ -204,8 +208,7 @@ Join Us Page consists of:
 - [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - used to inspect and debug the code.
 - [Google Fonts](https://fonts.google.com/) - used to import the fonts that style all of the text content.
 - [Git](https://git-scm.com/) - used for version control by utilizing CodeAnywhere's terminal.
-- [GitHub](https://github.com/) - used to store the project's code and images i
-n the repository.
+- [GitHub](https://github.com/) - used to store the project's code and images in the repository.
 - [GitHub Pages](https://pages.github.com/) - used to deploy the website.
 - [Tiny.png](https://tinypng.com/) - used to reduce the size of the image files.
 
@@ -276,7 +279,11 @@ Screenshot of the article:
 
 ### Media
 
-The images used on the website were sourced from three leading providers of stock photography: [Shutterstock](https://www.shutterstock.com/), [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/).
+The images used on the website were sourced from three leading providers of stock photography: 
+
+- [Shutterstock](https://www.shutterstock.com/),
+- [Pexels](https://www.pexels.com/),
+- [Unsplash](https://unsplash.com/).
 
 ### Acknowledgements
 
