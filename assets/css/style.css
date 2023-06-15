@@ -529,7 +529,7 @@ footer a {
     }
 
     footer {
-        font-size: 120%;
+        font-size: 100%;
     }
 
     footer a {
@@ -693,6 +693,10 @@ footer a {
     td {
         font-size: 90%;
     }
+
+    footer {
+        font-size: 120%;
+    }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1200px) {
@@ -719,6 +723,10 @@ footer a {
         width: 70%;
         margin: 5vw 10vw 5vw 10vw;
         padding: 25px 15px;
+    }
+
+    footer {
+        font-size: 130%;
     }
 }
 
