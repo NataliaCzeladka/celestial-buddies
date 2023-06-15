@@ -116,9 +116,9 @@ I have tested my deployed project using the Lighthouse Audit tool to check for a
 
 | User Stories | Completed? |
 | --- | --- |
-| As a frequent user, I should be able to easily find the latest information and updates e.g., upcoming events, new learning resources. | Take a look at [Future Features](#future-features) |
-| As a frequent user, I should be able to easily find and revisit my favourite content. | Take a look at [Future Features](#future-features) |
-| As a frequent user, I should be able to access community and to get in touch with other members. | Take a look at [Future Features](#future-features) |
+| As a frequent user, I should be able to easily find the latest information and updates e.g., upcoming events, new learning resources. | Take a look at the Future Features section in [README.md](README.md) file |
+| As a frequent user, I should be able to easily find and revisit my favourite content. | Take a look at the Future Features section in [README.md](README.md) file |
+| As a frequent user, I should be able to access community and to get in touch with other members. | Take a look at the Future Features section in [README.md](README.md) file |
 
 ## Fixed Bugs
 
@@ -126,9 +126,9 @@ I have tested my deployed project using the Lighthouse Audit tool to check for a
 
 ![Header initial sketch](docs/shutterstock_editor.jpg)
 
-- At some point I had two `<h1>` headings in the index.html file: one in the header and one in the introduction. The second one got changed to `<h2>`.
+- At some point I had two `<h1>` headings in the index.html file: one in the header and one in the introduction section. The second one got changed to `<h2>`.
 
-- I have initially written a lot of separate CSS declarations for various elements and classes changing background colour to black and font colour to white. Then I realised that it would be much easier and code efficient to replace it with one declaration for the entire body: `body {background-color: #000; color: #fff;}`
+- I have initially written a lot of separate CSS declarations for various elements and classes changing background colour to black and font colour to white. Then I realised that it would be much easier and code efficient to replace it with one declaration for the entire body: `body {background-color: #000; Ucolor: #fff;}`
 
 - I have assigned `class="active"` to an `<a>` instead of `<li>` in the navigation bar, what resulted in the active tab changing colour to `#15418c` only in the middle. It wasn't visible on the big screen sizes. I have noticed this bug quite late in the process, when I was trying to figure out how to make a navbar responsive on smaller devices, and I used Flexbox for this purpose.
 

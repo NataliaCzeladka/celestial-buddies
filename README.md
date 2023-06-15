@@ -24,6 +24,9 @@ Are you interested in astronomy and planetary science? Why don't you take a look
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
     - [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
+    - [Features](#features)
+    - [Exisiting Features](#exisiting-features)
+    - [Future Features](#future-features)
   - [Testing](#testing)
   - [Deployment](#deployment)
     - [Deploying the project to GitHub Pages](#deploying-the-project-to-github-pages)
@@ -76,7 +79,7 @@ Are you interested in astronomy and planetary science? Why don't you take a look
 
 The colour scheme chosen for the Celestial Buddies website combines the timeless elegance of black and white with subtle shades of blue and the deep, warm shade of brown called burnt sienna. These colours are commonly assosiated with the beauty of the night sky. The use of black and white may bring to mind the vastness of the cosmos, while the blue tones add depth and tranguility of the Universe.
 
-I used [Coolors](https://coolors.co/e84610-009fe3-4a4a4f-445261-d63649-e6ecf0-000000) to generate my colour palette.
+I used [Coolors](https://coolors.co/cf8a72-000000-ffffff-435170-15418c-202348) to generate my colour palette.
 
 ![Colour Palette](docs/colour_palette.png)
 
@@ -129,6 +132,76 @@ Wireframes were created using [Balsamiq](https://balsamiq.com/wireframes/) - the
 n the repository.
 - [GitHub Pages](https://pages.github.com/) - used to deploy the website.
 - [Tiny.png](https://tinypng.com/) - used to reduce the size of the image files.
+
+### Features
+
+### Exisiting Features
+
+The Celestial Buddies website consists of four pages: Home, Events, Resources and Join Us.
+
+Some features are common for all of them. These are:
+
+- Page Header - It's comprised of the breathtaking image of the planet Earth, the main page title (which is also the astronomy club's name) and the inspiring quote by Carl Sagan (American astronomer). It appears on the top of every page within the website. Its purpose is to encourage users to expand their knowledge about the wonders of the Universe.
+  
+![Page Header](docs/page_header.png)
+
+- Navigation Bar - It stretches across the entire width of the screen. It consists of links to all four pages of the website. It was created using Flexbox and it's fully responsive. The active tab is always different colour (Marian Blue) than the other three. The font changes colour to black when a user hovers over it.
+  
+![Navigation Bar](docs/navbar.png)
+
+- Page Footer - It also stretches across the entire width of the screen. It consists on copyright information on the left side, and social media links on the right side. It was created using Bootstrap's `container-fluid`. Social media icons change their colour to black when a user hovers over them.
+
+![Page Footer](docs/page_footer.png)
+
+Home Page consists of:
+
+- Intoduction - There are a few direct questions there addressed to a user of the website. Their main purpose is to check if the astronomy club is something they would be interested in. It's all placed between two images that mirror each other.
+
+![Home Page Introduction](docs/home_page_intro.png)
+
+- Basic Information - This section is comprised of three columns. Each of them is the answer to the question placed above them. These three questions are: Who we are? What we do? Where to find us? This section provides information on times and locations of the meetups. It also briefly describes the group's characteristics, interests and types of activities they provide.
+
+![Home Page Basic Info](docs/home_page_info.png)
+
+Events Page consists of:
+
+- Introduction - Just a few short paragraphs with a very simple styling (white font on the black background), explaining what kind of events are available for the club members.
+
+![Events Intro](docs/events_intro.png)
+
+- Upcoming Day Trips Section - This section is comprised of three columns. Every column has an image on the top, a location of a trip right below it, and a short description at the bottom.
+
+![Upcoming Day Trips](docs/upcoming_day_trips.png)
+
+- Regular Events Section - It's also comprised of three columns. Every column has an image on the top, a location of a regular event right below it, and a short description at the bottom.
+
+![Regular Events](docs/regular_events.png)
+
+- Past Events Section - Like the previous two sections, it's comprised of three columns. Every column has an image on the top, a name of a past event right below it, and a short description at the bottom.
+
+![Past Events](docs/past_events.png)
+
+Resources Page consists of:
+
+- Introduction - Just a few short paragraphs with a very simple styling (white font on the black background), explaining what kind of resources can be found in this section.
+
+![Resources Intro](docs/resources_intro.png)
+
+- Resources Section - This section is comprised of three columns. They provide a diverse range of materials for self-study, grouped into books, magazines and websites. The list is by no means exhaustive and will be regularly updated.
+
+![Resources](docs/resources.png)
+
+Join Us Page consists of:
+
+- Join Us Form - It's comprised of three text inputs, three radio buttons and the submit button. It allows users to join Celestial Buddies and to specify their preferred activities.
+
+![Join Us Form](docs/joinus_form.png)
+
+- Contact Information Section - It provides phone numbers, email address and locations of the club's regular meetups and stargazing sessions. 
+
+![Contact Information](docs/contact_info.png)
+  
+### Future Features
 
 ## Testing
 
