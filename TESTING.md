@@ -130,9 +130,13 @@ I have tested my deployed project using the Lighthouse Audit tool to check for a
 
 - I have initially written a lot of separate CSS declarations for various elements and classes changing background colour to black and font colour to white. Then I realised that it would be much easier and code efficient to replace it with one declaration for the entire body: `body {background-color: #000; Ucolor: #fff;}`
 
-- I have assigned `class="active"` to an `<a>` element instead of a `<li>` element in the navigation bar. It resulted in the active tab changing colour to `#15418c` only in its centre, where the `<a>` element sits. It wasn't visible on the big screen sizes. I have noticed this bug quite late in the process, when I was trying to make the navbar responsive on smaller devices, and I used Flexbox for this purpose.
+- I have assigned `class="active"` to an `<a>` element instead of a `<li>` element in the navigation bar. It resulted in the active tab changing colour to `#15418c` only in its centre, where the `<a>` element was located. It wasn't visible on the large screen size devices. That's why I have noticed the bug quite late in the process, when I was trying to make the navbar responsive on smaller devices, and I used Flexbox for this purpose.
 
 - Overflowing content of basic-info container on the Home page of small and medium devices resulted in a horizontal scroll bar being displayed. I fixed this error by changing the value of the padding property.
+
+- Selecting a radio button in the radio group should automatically deselect any currently selected radio button. My form surpisingly allowed selecting two of them. It was due to them having different values of the name attribute caused by a simple typo.
+
+![Radio Group Error](docs/radio_button_bug.png)
 
 ![Overflowing Bug](docs/overflow.png)
 

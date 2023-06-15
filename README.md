@@ -97,7 +97,7 @@ To emphasize the contrast between main headings and paragraphs, I have carefully
 
 Imagery plays a vital role in capturing the awe-inspiring beauty of the cosmos on the Celestial Buddies website. Its main purpose is to inspire and immerse visitors in the captivating word of astronomy, and to encourage them to expand their knowledge on this topic.
 
-The images used on the website were sourced from three leading providers of stock photography: 
+The images used on the website were sourced from three leading providers of stock photography:
 
 - [Shutterstock](https://www.shutterstock.com/),
 - [Pexels](https://www.pexels.com/),
@@ -279,7 +279,7 @@ Screenshot of the article:
 
 ### Media
 
-The images used on the website were sourced from three leading providers of stock photography: 
+The images used on the website were sourced from three leading providers of stock photography:
 
 - [Shutterstock](https://www.shutterstock.com/),
 - [Pexels](https://www.pexels.com/),
