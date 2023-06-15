@@ -2,7 +2,7 @@
 
 The Celestial Buddies website is a website provided for a local, amateur astronomy club. It contains basic information for potential members, who may be interested in joining in for a regular monthly meetups or stargazing events. It also provides information on bigger events organised by the club like day trips and workshops, resources that may be useful for astronomy enthusiasts, and links to additional social media accounts used by the club. The site is comprised of four pages: Home, Events, Resources and Join Us.
 
-![Celestial Buddies Website](docs/mockup_updated.png)
+![Celestial Buddies Website](docs/mockup.png)
 
 Are you interested in astronomy and planetary science? Why don't you take a look at Celestial Buddies' deployed website? [Celestial Buddies Website](https://nataliaczeladka.github.io/celestial-buddies/)
 
@@ -198,7 +198,6 @@ Join Us Page consists of:
 
 ### Frameworks, Libraries and Programs Used
 
-- [Am I responsive?](https://ui.dev/amiresponsive) - used to check the site's responsiveness and to create mockups.
 - [Balsamiq](https://balsamiq.com/wireframes/) - used to create mobile, tablet and desktop wireframes.
 - [Bootstrap v5.3](https://getbootstrap.com/) - used to assist with responsiveness by utilizing its layout elements.
 - [CodeAnywhere](https://app.codeanywhere.com/) - used as cloud IDE to write, edit and save the code.
@@ -210,6 +209,7 @@ Join Us Page consists of:
 - [Git](https://git-scm.com/) - used for version control by utilizing CodeAnywhere's terminal.
 - [GitHub](https://github.com/) - used to store the project's code and images in the repository.
 - [GitHub Pages](https://pages.github.com/) - used to deploy the website.
+- [Techsini](http://techsini.com/multi-mockup/) - used to check the site's responsiveness and to create mockups.
 - [Tiny.png](https://tinypng.com/) - used to reduce the size of the image files.
 
 ## Testing
