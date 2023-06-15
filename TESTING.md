@@ -134,8 +134,8 @@ I have tested my deployed project using the Lighthouse Audit tool to check for a
 
 ## Unfixed Bugs
 
-- Overflowing content of basic-info container on the Home page of small and medium devices results in a horizontal scroll bar being desplayed. I tried to fix this error by completely removing `.basic-info` from Media Queries and it worked, but I didn't like how it look. That's why I'm going to bring it back on for now and try to resolve this issue in a more convenient time.
+- Overflowing content of basic-info container on the Home page of small and medium devices results in a horizontal scroll bar being displayed. I tried to fix this error by completely removing `.basic-info` from Media Queries and it worked, but I didn't like how it looked. That's why I'm going to bring it back on for now and try to resolve this issue in a more convenient time.
 
 ![Overflowing Bug](docs/overflow.png)
 
--I was told by my mentor that font size should never be smaller than 16px (even on small devices), which means some font sizes I used need to be corrected.
+- I was told by my mentor that font size of any text content should never be smaller than 16px (even on small devices), which means some of the font sizes I used in Media Queries need to be corrected.

@@ -209,8 +209,6 @@ n the repository.
 - [GitHub Pages](https://pages.github.com/) - used to deploy the website.
 - [Tiny.png](https://tinypng.com/) - used to reduce the size of the image files.
 
-
-
 ## Testing
 
 For all testing, please refer to the [TESTING.md](TESTING.md) file.
