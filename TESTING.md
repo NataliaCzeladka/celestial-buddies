@@ -89,7 +89,7 @@ I have tested my deployed project using the Lighthouse Audit tool to check for a
 | As a client, I would like to have a website that will help me create a welcoming and inclusive community, where people of all skill levels can come together to learn about the wonders of the Universe. | ✔️ |
 | As a client, I would like to provide educational opportunities that attract both beginners and experienced astronomy enthusiasts through various types of activities like regular meetups, workshops, stargazing sessions, day trips etc. | ✔️ |
 | As a client, I would like to inspire a passion for astronomy and space exploration by providing resources for self-study. | ✔️ |
-| As a client, I would like to describe it all briefly on the website, including information about times and locations of the meetups, contact details, social media links. | ✔️ |
+| As a client, I would like to have it all described briefly on the website, including information about times and locations of the meetups, contact details, social media links. | ✔️ |
 | As a client, I would like to attract potential members by providing it all in a form of a visually appealing, intuitive, responsive across different devices and easy to navigate website. | ✔️ |
 
 ### First Time User Goals

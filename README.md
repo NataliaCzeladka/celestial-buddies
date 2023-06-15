@@ -21,12 +21,12 @@ Are you interested in astronomy and planetary science? Why don't you take a look
     - [Typography](#typography)
     - [Imagery](#imagery)
     - [Wireframes](#wireframes)
+    - [Features](#features)
+      - [Exisiting Features](#exisiting-features)
+      - [Future Features](#future-features)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
     - [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
-    - [Features](#features)
-    - [Exisiting Features](#exisiting-features)
-    - [Future Features](#future-features)
   - [Testing](#testing)
   - [Deployment](#deployment)
     - [Deploying the project to GitHub Pages](#deploying-the-project-to-github-pages)
@@ -71,7 +71,7 @@ Are you interested in astronomy and planetary science? Why don't you take a look
 
 - To easily find the latest information and updates e.g., upcoming events, new learning resources.
 - To easily find and revisit user's favourite content.
-- To access community and to get in touch with other members - feature available in the future when the site expands.
+- To access community and to get in touch with other members.
 
 ## Design
 
@@ -109,33 +109,9 @@ Wireframes were created using [Balsamiq](https://balsamiq.com/wireframes/) - the
 | Tablet | ![Tablet Wireframes](docs/wireframes_tablet.png) |
 | Desktop | ![Desktop Wireframes](docs/wireframes_desktop.png) |
 
-## Technologies Used
-
-### Languages Used
-
-- [HTML](https://en.wikipedia.org/wiki/HTML) - used for the main site content.
-- [CSS](https://en.wikipedia.org/wiki/CSS) - used for the main site design and layout.
-
-### Frameworks, Libraries and Programs Used
-
-- [Am I responsive?](https://ui.dev/amiresponsive) - used to check the site's responsiveness and to create mockups.
-- [Balsamiq](https://balsamiq.com/wireframes/) - used to create mobile, tablet and desktop wireframes.
-- [Bootstrap v5.3](https://getbootstrap.com/) - used to assist with responsiveness by utilizing its layout elements.
-- [CodeAnywhere](https://app.codeanywhere.com/) - used as cloud IDE to write, edit and save the code.
-- [Coolors](https://coolors.co/) - used to create the colour palette.
-- [Font Awesome](https://fontawesome.com/) - used to provide icons across the website.
-- [Free Convert](https://www.freeconvert.com/jpg-to-webp) - used to convert jpg images to webp format.
-- [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - used to inspect and debug the code.
-- [Google Fonts](https://fonts.google.com/) - used to import the fonts that style all of the text content.
-- [Git](https://git-scm.com/) - used for version control by utilizing CodeAnywhere's terminal.
-- [GitHub](https://github.com/) - used to store the project's code and images i
-n the repository.
-- [GitHub Pages](https://pages.github.com/) - used to deploy the website.
-- [Tiny.png](https://tinypng.com/) - used to reduce the size of the image files.
-
 ### Features
 
-### Exisiting Features
+#### Exisiting Features
 
 The Celestial Buddies website consists of four pages: Home, Events, Resources and Join Us.
 
@@ -145,7 +121,7 @@ Some features are common for all of them. These are:
   
 ![Page Header](docs/page_header.png)
 
-- Navigation Bar - It stretches across the entire width of the screen. It consists of links to all four pages of the website. It was created using Flexbox and it's fully responsive. The active tab is always different colour (Marian Blue) than the other three. The font changes colour to black when a user hovers over it.
+- Navigation Bar - It stretches across the entire width of the screen. It consists of links to all four pages of the website. It was created using Flexbox and it's fully responsive. The active tab has a different colour than the other three. The tab font colour changes to black when a user hovers over it.
   
 ![Navigation Bar](docs/navbar.png)
 
@@ -187,7 +163,7 @@ Resources Page consists of:
 
 ![Resources Intro](docs/resources_intro.png)
 
-- Resources Section - This section is comprised of three columns. They provide a diverse range of materials for self-study, grouped into books, magazines and websites. The list is by no means exhaustive and will be regularly updated.
+- Resources Section - This section is comprised of three columns. They provide a diverse range of materials for self-study, grouped into books, magazines and websites. The list is far from exhaustive and will be regularly updated.
 
 ![Resources](docs/resources.png)
 
@@ -197,11 +173,43 @@ Join Us Page consists of:
 
 ![Join Us Form](docs/joinus_form.png)
 
-- Contact Information Section - It provides phone numbers, email address and locations of the club's regular meetups and stargazing sessions. 
+- Contact Information Section - It provides phone numbers, email address and locations of the club's regular meetups and stargazing sessions.
 
 ![Contact Information](docs/contact_info.png)
   
-### Future Features
+#### Future Features
+
+- Bootstrap's badges - to indicate a new content added to the website (to meet the first frequent user goal).
+  
+- The sign-up/login feature - which will allow users to access information and resources available only to the club members. It will also allow members to tag their favourite content and come back to it later (to meet the second frequent user goal).
+
+- Community Section - for the club members to interact, to discuss their ideas and share their resources (to meet the third frequent user goal).
+
+## Technologies Used
+
+### Languages Used
+
+- [HTML](https://en.wikipedia.org/wiki/HTML) - used for the main site content.
+- [CSS](https://en.wikipedia.org/wiki/CSS) - used for the main site design and layout.
+
+### Frameworks, Libraries and Programs Used
+
+- [Am I responsive?](https://ui.dev/amiresponsive) - used to check the site's responsiveness and to create mockups.
+- [Balsamiq](https://balsamiq.com/wireframes/) - used to create mobile, tablet and desktop wireframes.
+- [Bootstrap v5.3](https://getbootstrap.com/) - used to assist with responsiveness by utilizing its layout elements.
+- [CodeAnywhere](https://app.codeanywhere.com/) - used as cloud IDE to write, edit and save the code.
+- [Coolors](https://coolors.co/) - used to create the colour palette.
+- [Font Awesome](https://fontawesome.com/) - used to provide icons across the website.
+- [Free Convert](https://www.freeconvert.com/jpg-to-webp) - used to convert jpg images to webp format.
+- [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - used to inspect and debug the code.
+- [Google Fonts](https://fonts.google.com/) - used to import the fonts that style all of the text content.
+- [Git](https://git-scm.com/) - used for version control by utilizing CodeAnywhere's terminal.
+- [GitHub](https://github.com/) - used to store the project's code and images i
+n the repository.
+- [GitHub Pages](https://pages.github.com/) - used to deploy the website.
+- [Tiny.png](https://tinypng.com/) - used to reduce the size of the image files.
+
+
 
 ## Testing
 
@@ -241,7 +249,7 @@ Making a clone is basically making a copy of the selected repository.
 
 ### Code
 
-- Code for the outline effect used on a multiple occasions across the CSS stylesheet was taken from [Stack Overflow](<https://stackoverflow.com/questions/4919076/outline-effect-to-text>) and got slightly edited to fit the project needs.
+- Code for the outline effect used on a multiple occasions across the CSS stylesheet was taken from [Stack Overflow](https://stackoverflow.com/questions/4919076/outline-effect-to-text) and got slightly edited to fit the project needs.
 
 Screenshot of the post:
 ![Outline Effect](docs/outline_effect_credit.png)
@@ -274,7 +282,7 @@ The images used on the website were sourced from three leading providers of stoc
 
 ### Acknowledgements
 
-- [Tim Nelson](https://github.com/TravelTimN) (my Code Institute mentor) - for his guidance, constructive feedback, understanding and always finding a kind word of comfort when things were getting complicated and I felt incompetent and overwhelmed.
+- [Tim Nelson](https://github.com/TravelTimN) (my Code Institute mentor) - for sharing his impressive knowledge, for his guidance, constructive feedback, understanding, and always finding a kind word of comfort when things were getting complicated and I felt incompetent and overwhelmed.
 - [Callum Jones](https://www.linkedin.com/in/callum-jones-9b80941b8/) (Newcastle College cohort facilitator) - for his helpful advice and continuous encouragement throughout the creation of my website.
 - [Code Institute](https://codeinstitute.net) Tutor Support Team - for their assistance with troubleshooting and debugging some project issues.
 - [Code Institute Slack Community](https://code-institute-room.slack.com) - for the moral support; it kept me going during periods of self doubt and imposter syndrome.
