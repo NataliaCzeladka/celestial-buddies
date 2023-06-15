@@ -134,11 +134,11 @@ I have tested my deployed project using the Lighthouse Audit tool to check for a
 
 - Overflowing content of basic-info container on the Home page of small and medium devices resulted in a horizontal scroll bar being displayed. I fixed this error by changing the value of the padding property.
 
-- Selecting a radio button in the radio group should automatically deselect any currently selected radio button. My form surpisingly allowed selecting two of them. It was due to them having different values of the name attribute caused by a simple typo.
+![Overflowing Bug](docs/overflow.png)
+
+- Selecting a radio button in the radio group should automatically deselect any currently selected radio button. My form surprisingly allowed selecting two of them. It was due to them having different values of the name attribute caused by a simple typo.
 
 ![Radio Group Error](docs/radio_button_bug.png)
-
-![Overflowing Bug](docs/overflow.png)
 
 ## Unfixed Bugs
 
